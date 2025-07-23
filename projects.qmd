@@ -1,0 +1,39 @@
+---
+title: "Projects"
+---
+
+
+## Selected Projects
+
+
+* [Classroom Technology Walkthrough for New Teaching Assistants and Instructors](https://uwaterloo.ca/statistics-and-actuarial-science/graduate-studies/graduate-resources/teaching-assistants-program/teaching-assistants-resources) (Univeristy of Waterloo) 
+
+
+* [PhD Thesis: Advances in the Analysis of Irregular Longitudinal Data Using Inverse Intensity Weighting.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/b7366091-4036-47c3-ab97-b48b3d40cfb0/content) University of Waterloo, 2025.
+
+
+
+## Selected Talks
+
+* **Grace Tompkins**, Joel Dubin, Michael Wallace. Weight Trimming for Flexible Inverse Probability of Treatment and Intensity Weighting. (2024). International Society for Clinical Biostatistics Conference, Thessaloniki, Greece. 
+
+* **Grace Tompkins**, Joel Dubin, Michael Wallace. The Impacts of Noninformative Censoring in the Analysis of Irregular Longitudinal Data with Informative Observation Times and Non-randomized Treatment Assignments. (2023). Eastern North American Region International Biometric Society Conference, Nashville, USA.
+
+* **Grace Tompkins**, Joel Dubin, Michael Wallace. Adjusting for Informative Observation Times and Non-randomized Exposures via Weighting Methods in Irregular Longitudinal Data Analysis. (2023). American Statistical Association Conference on Statistical Practice, San Francisco, USA. 
+
+* **Grace Tompkins**, Joel A Dubin, Michael Wallace. Accounting for Informative Observation Times and Non-randomized Exposures in Irregular Longitudinal Data Analysis via Weighting Methods. (2022). Waterloo Student Conference in Statistics, Actuarial Sciences, and Finance, Waterloo Canada. 
+
+* **Grace Tompkins**, Michael Wallace, Xavier Loffree. How Do I Choose? Personalized Decision-Making in Multiple Attribute Settings. (2022). American Statistical Association Conference on Statistical Practice, Virtual (USA).
+
+* **Grace Tompkins**, Derrick G. Lee. Pre-pregnancy Polycyclic Aromatic Hydrocarbons and its Effects on Breast Cancer Development. (2018). Science Atlantic: Mathematics, Statistics, and Computer Science Conference, Moncton, Canada.
+
+
+
+## Publications
+
+* **Tompkins G**, Dubin JA, Wallace M. On flexible inverse probability of treatment and intensity weighting: Informative censoring, variable selection, and weight trimming. Statistical Methods in Medical Research. 2025;34(5):915-937. [doi:10.1177/09622802241313289](doi:10.1177/09622802241313289)
+
+* Ijner, P., **Tompkins, G.**, Shiohama, T., Takahashi, E., & Levman, J. (2022). Structural abnormalities in paediatric moyamoya disease revealed by clinical magnetic resonance imaging, regionally distributed relative signal intensities and volumes. International Journal of Developmental Neuroscience, 82(2), 146–158. [https://doi.org/10.1002/jdn.10167](https://doi.org/10.1002/jdn.10167)
+
+* **Tompkins, G.**, Levman, J., Ijner, P., Shiohama, T., & Takahashi, E. (2021). Cortical thickness in clinical moyamoya disease: A magnetic resonance imaging study. International Journal of Developmental Neuroscience, 81(8), 698–705. [https://doi.org/10.1002/jdn.10146](https://doi.org/10.1002/jdn.10146)
+

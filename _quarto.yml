@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "grcetmpk.github.io.git"
+  title: "Grace Tompkins"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - teaching.qmd
+      - projects.qmd
+
 
 format:
   html:
@@ -16,7 +18,6 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
 
 
 

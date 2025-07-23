@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+
+*I strive to provide a safe, accessible, and fun space for all students to learn statistics.* 
+
+
+## Upcoming Courses
+
+* STAT 545 A/B: *Exploratory Data Analysis* (Fall 2025, University of British Columbia)
+* DSCI 100: *Introduction to Data Science* (Fall 2025, University of British Columbia) 
+
+## Past Cources
+
+* STAT 367: *Introduction to Biostatistics* (Fall 2023, University of Waterloo)
+
+

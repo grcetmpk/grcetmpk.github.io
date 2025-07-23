@@ -1,11 +1,24 @@
 ---
-title: "grcetmpk.github.io.git"
+title: "Grace Tompkins"
+about:
+  template: jolla
+  image: images/avatar.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/grcetmpk
 ---
 
-This is a Quarto website.
+*Assistant Professor of Teaching*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Department of Statistics, University of British Columbia
 
-```{r}
-1 + 1
-```
+## Education
+
+PhD in Biostatistics, University of Waterloo | 2025
+
+MMATH Biostatistics, University of Waterloo | 2020
+
+BSc Mathematics (Hons.) with Statistics Concentration, St. Francis Xavier University | 2019
+
+
