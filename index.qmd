@@ -5,8 +5,14 @@ about:
   image: images/avatar.png
   links:
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/grcetmpk
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@proftompkins
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/grace-e-tompkins/
 ---
 
 *Assistant Professor of Teaching*
