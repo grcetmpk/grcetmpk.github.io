@@ -1,73 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Grace Tompkins",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Assistant Professor of Teaching\nDepartment of Statistics, University of British Columbia"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Grace Tompkins",
-    "section": "Education",
-    "text": "Education\nPhD in Biostatistics, University of Waterloo | 2025\nMMATH Biostatistics, University of Waterloo | 2020\nBSc Mathematics (Hons.) with Statistics Concentration, St. Francis Xavier University | 2019"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "I strive to provide a safe, accessible, and fun space for all students to learn statistics."
-  },
-  {
-    "objectID": "teaching.html#upcoming-courses",
-    "href": "teaching.html#upcoming-courses",
-    "title": "Teaching",
-    "section": "Upcoming Courses",
-    "text": "Upcoming Courses\n\nSTAT 545 A/B: Exploratory Data Analysis (Fall 2025, University of British Columbia)\nDSCI 100: Introduction to Data Science (Fall 2025, University of British Columbia)"
-  },
-  {
-    "objectID": "teaching.html#past-cources",
-    "href": "teaching.html#past-cources",
-    "title": "Teaching",
-    "section": "Past Cources",
-    "text": "Past Cources\n\nSTAT 367: Introduction to Biostatistics (Fall 2023, University of Waterloo)"
-  },
-  {
-    "objectID": "projects.html#talks",
-    "href": "projects.html#talks",
-    "title": "Projects",
-    "section": "Talks",
-    "text": "Talks"
-  },
-  {
-    "objectID": "projects.html#publications",
-    "href": "projects.html#publications",
-    "title": "Projects",
-    "section": "Publications",
-    "text": "Publications\n\nTompkins G, Dubin JA, Wallace M. On flexible inverse probability of treatment and intensity weighting: Informative censoring, variable selection, and weight trimming. Statistical Methods in Medical Research. 2025;34(5):915-937. doi:10.1177/09622802241313289\nIjner, P., Tompkins, G., Shiohama, T., Takahashi, E., & Levman, J. (2022). Structural abnormalities in paediatric moyamoya disease revealed by clinical magnetic resonance imaging, regionally distributed relative signal intensities and volumes. International Journal of Developmental Neuroscience, 82(2), 146–158. https://doi.org/10.1002/jdn.10167\nTompkins, G., Levman, J., Ijner, P., Shiohama, T., & Takahashi, E. (2021). Cortical thickness in clinical moyamoya disease: A magnetic resonance imaging study. International Journal of Developmental Neuroscience, 81(8), 698–705. https://doi.org/10.1002/jdn.10146"
-  },
-  {
-    "objectID": "projects.html#thesis",
-    "href": "projects.html#thesis",
-    "title": "Projects",
-    "section": "Thesis",
-    "text": "Thesis\n\nPhD Thesis: Tompkins, Grace. Advances in the Analysis of Irregular Longitudinal Data Using Inverse Intensity Weighting. Diss. University of Waterloo, 2025. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/b7366091-4036-47c3-ab97-b48b3d40cfb0/content"
-  },
-  {
-    "objectID": "projects.html#theses",
-    "href": "projects.html#theses",
-    "title": "Projects",
-    "section": "Theses",
-    "text": "Theses\n\nPhD Thesis: Tompkins, Grace. Advances in the Analysis of Irregular Longitudinal Data Using Inverse Intensity Weighting. Diss. University of Waterloo, 2025. link"
+    "text": "I’m a Blogger Now? (September 17, 2025)\nI recently enrolled in a Teaching Development Program (TDP) and in one of the modules we discussed Reflective Teaching. We don’t tend to see much of this in Statistics. Personally, throughout my undergraduate (and graduate) courses not once did anyone ask how I felt or what I thought. Everything was very structured, right or wrong, yes or no, proved correctly or not, with little room to reflect. I was encouraged by the TDP team to start a blog to do more reflection.\nThis blog will serve as a space to collect my jumbled thoughts, and perhaps spark a conversation. I’ll be giving some reflections as I grow throughout this new role, and share resources and stories as I see fit.\nThanks for reading!"
   },
   {
     "objectID": "projects.html",
@@ -91,11 +28,32 @@
     "text": "Selected Talks\n\nGrace Tompkins, Joel Dubin, Michael Wallace. Weight Trimming for Flexible Inverse Probability of Treatment and Intensity Weighting. (2024). International Society for Clinical Biostatistics Conference, Thessaloniki, Greece.\nGrace Tompkins, Joel Dubin, Michael Wallace. The Impacts of Noninformative Censoring in the Analysis of Irregular Longitudinal Data with Informative Observation Times and Non-randomized Treatment Assignments. (2023). Eastern North American Region International Biometric Society Conference, Nashville, USA.\nGrace Tompkins, Joel Dubin, Michael Wallace. Adjusting for Informative Observation Times and Non-randomized Exposures via Weighting Methods in Irregular Longitudinal Data Analysis. (2023). American Statistical Association Conference on Statistical Practice, San Francisco, USA.\nGrace Tompkins, Joel A Dubin, Michael Wallace. Accounting for Informative Observation Times and Non-randomized Exposures in Irregular Longitudinal Data Analysis via Weighting Methods. (2022). Waterloo Student Conference in Statistics, Actuarial Sciences, and Finance, Waterloo Canada.\nGrace Tompkins, Michael Wallace, Xavier Loffree. How Do I Choose? Personalized Decision-Making in Multiple Attribute Settings. (2022). American Statistical Association Conference on Statistical Practice, Virtual (USA).\nGrace Tompkins, Derrick G. Lee. Pre-pregnancy Polycyclic Aromatic Hydrocarbons and its Effects on Breast Cancer Development. (2018). Science Atlantic: Mathematics, Statistics, and Computer Science Conference, Moncton, Canada."
   },
   {
-    "objectID": "teaching.html#teaching-philosophy",
-    "href": "teaching.html#teaching-philosophy",
+    "objectID": "projects.html#publications",
+    "href": "projects.html#publications",
+    "title": "Projects",
+    "section": "Publications",
+    "text": "Publications\n\nTompkins G, Dubin JA, Wallace M. On flexible inverse probability of treatment and intensity weighting: Informative censoring, variable selection, and weight trimming. Statistical Methods in Medical Research. 2025;34(5):915-937. doi:10.1177/09622802241313289\nIjner, P., Tompkins, G., Shiohama, T., Takahashi, E., & Levman, J. (2022). Structural abnormalities in paediatric moyamoya disease revealed by clinical magnetic resonance imaging, regionally distributed relative signal intensities and volumes. International Journal of Developmental Neuroscience, 82(2), 146–158. https://doi.org/10.1002/jdn.10167\nTompkins, G., Levman, J., Ijner, P., Shiohama, T., & Takahashi, E. (2021). Cortical thickness in clinical moyamoya disease: A magnetic resonance imaging study. International Journal of Developmental Neuroscience, 81(8), 698–705. https://doi.org/10.1002/jdn.10146"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I strive to provide a safe and fun space for students to learn."
+    "text": "I strive to provide a safe, accessible, and fun space for all students to learn statistics."
+  },
+  {
+    "objectID": "teaching.html#upcoming-courses",
+    "href": "teaching.html#upcoming-courses",
+    "title": "Teaching",
+    "section": "Upcoming Courses",
+    "text": "Upcoming Courses\n\nSTAT 545 A/B: Exploratory Data Analysis (Fall 2025, University of British Columbia)\nDSCI 100: Introduction to Data Science (Fall 2025, University of British Columbia)"
+  },
+  {
+    "objectID": "teaching.html#past-cources",
+    "href": "teaching.html#past-cources",
+    "title": "Teaching",
+    "section": "Past Cources",
+    "text": "Past Cources\n\nSTAT 367: Introduction to Biostatistics (Fall 2023, University of Waterloo)"
   },
   {
     "objectID": "awards.html",
@@ -110,5 +68,19 @@
     "title": "Awards and Recognitions",
     "section": "",
     "text": "NSERC Canadian Graduate Scholarship - Doctoral"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grace Tompkins",
+    "section": "",
+    "text": "Assistant Professor of Teaching\nDepartment of Statistics, University of British Columbia"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Grace Tompkins",
+    "section": "Education",
+    "text": "Education\nPhD in Biostatistics, University of Waterloo | 2025\nMMATH Biostatistics, University of Waterloo | 2020\nBSc Mathematics (Hons.) with Statistics Concentration, St. Francis Xavier University | 2019"
   }
 ]
