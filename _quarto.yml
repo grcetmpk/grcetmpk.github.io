@@ -9,8 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - teaching.qmd
-      - projects.qmd
-      - blog.qmd
+      - educationalleadership/index.qmd
+      - research.qmd
+      - blog/index.qmd
 
 
 format:

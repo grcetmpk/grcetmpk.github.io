@@ -1,0 +1,12 @@
+---
+title: "STAT545 Quarto Website"
+categories:
+image: "stat545.png"
+href: "https://ubc-stat.github.io/STAT545.github.io/"
+---
+
+A re-vamp of the STAT545 course website at UBC, now using Quarto!
+
+Website: <https://ubc-stat.github.io/STAT545.github.io/>
+
+GitHub Repository: <https://github.com/UBC-STAT/STAT545.github.io>

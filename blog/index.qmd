@@ -1,0 +1,19 @@
+---
+title: "Blog"
+listing:
+  - id: ehr
+    max-description-length: 150
+    image-height: 150px
+    fields: [date, author, title, image, categories, description]
+    contents: posts
+    type: default
+    grid-item-border: true
+    sort: 
+      - "date desc"
+    date-format: long
+    categories: true
+---
+
+
+::: {#ehr}
+:::

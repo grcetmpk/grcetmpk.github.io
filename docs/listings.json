@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/oct202025.html",
+      "/blog/posts/sept172025.html"
+    ]
+  },
+  {
+    "listing": "/educationalleadership/index.html",
+    "items": [
+      "/educationalleadership/youtube/youtube.html",
+      "/educationalleadership/stat545/index.html",
+      "/educationalleadership/classroomtech/classroomtech.html"
+    ]
+  }
+]

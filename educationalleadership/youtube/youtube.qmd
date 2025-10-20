@@ -1,0 +1,12 @@
+---
+title: "Prof. Tompkins YouTube Channel"
+categories:
+image: "youtubethumbail.png"
+href: "https://www.youtube.com/@proftompkins"
+---
+
+A collection of short lectures on various topics in Statistics and Data Science. [Check it out on YouTube](https://www.youtube.com/@proftompkins) (\@ProfTompkins).
+
+Example video below:
+
+{{< video https://www.youtube.com/watch?v=G80zo0V2ORM>}}

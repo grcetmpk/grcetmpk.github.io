@@ -1,38 +1,45 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
+    "objectID": "educationalleadership/stat545/index.html",
+    "href": "educationalleadership/stat545/index.html",
+    "title": "STAT545 Quarto Website",
+    "section": "",
+    "text": "A re-vamp of the STAT545 course website at UBC, now using Quarto!\nWebsite: https://ubc-stat.github.io/STAT545.github.io/\nGitHub Repository: https://github.com/UBC-STAT/STAT545.github.io"
+  },
+  {
+    "objectID": "educationalleadership/youtube/youtube.html",
+    "href": "educationalleadership/youtube/youtube.html",
+    "title": "Prof. Tompkins YouTube Channel",
+    "section": "",
+    "text": "A collection of short lectures on various topics in Statistics and Data Science. Check it out on YouTube (@ProfTompkins).\nExample video below:"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "I’m a Blogger Now? (September 17, 2025)\nI recently enrolled in a Teaching Development Program (TDP) and in one of the modules we discussed Reflective Teaching. We don’t tend to see much of this in Statistics. Personally, throughout my undergraduate (and graduate) courses not once did anyone ask how I felt or what I thought. Everything was very structured, right or wrong, yes or no, proved correctly or not, with little room to reflect. I was encouraged by the TDP team to start a blog to do more reflection.\nThis blog will serve as a space to collect my jumbled thoughts, and perhaps spark a conversation. I’ll be giving some reflections as I grow throughout this new role, and share resources and stories as I see fit.\nThanks for reading!"
+    "text": "Approaching Gen AI Use with Compassion\n\n\n\n\n\n\nreflection\n\n\nteaching\n\n\nGen AI\n\n\n\n\n\n\n\n\n\nOctober 20, 2025\n\n\nGrace Tompkins\n\n\n\n\n\n\n\n\n\n\n\n\nI’m a Blogger Now?\n\n\n\n\n\n\nreflection\n\n\nteaching\n\n\n\n\n\n\n\n\n\nSeptember 17, 2025\n\n\nGrace Tompkins\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "blog/posts/sept172025.html",
+    "href": "blog/posts/sept172025.html",
+    "title": "I’m a Blogger Now?",
     "section": "",
-    "text": "Classroom Technology Walkthrough for New Teaching Assistants and Instructors (Univeristy of Waterloo)\nPhD Thesis: Advances in the Analysis of Irregular Longitudinal Data Using Inverse Intensity Weighting. University of Waterloo, 2025."
+    "text": "I recently enrolled in a Teaching Development Program (TDP) and in one of the modules we discussed Reflective Teaching. We don’t tend to see much of this in Statistics. Personally, throughout my undergraduate (and graduate) courses not once did anyone ask how I felt or what I thought. Everything was very structured, right or wrong, yes or no, proved correctly or not, with little room to reflect. I was encouraged by the TDP team to start a blog to do more reflection.\nThis blog will serve as a space to collect my jumbled thoughts, and perhaps spark a conversation. I’ll be giving some reflections as I grow throughout this new role, and share resources and stories as I see fit.\nThanks for reading!"
   },
   {
-    "objectID": "projects.html#selected-projects",
-    "href": "projects.html#selected-projects",
-    "title": "Projects",
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards and Recognitions",
     "section": "",
-    "text": "Classroom Technology Walkthrough for New Teaching Assistants and Instructors (Univeristy of Waterloo)\nPhD Thesis: Advances in the Analysis of Irregular Longitudinal Data Using Inverse Intensity Weighting. University of Waterloo, 2025."
+    "text": "NSERC Canadian Graduate Scholarship - Doctoral"
   },
   {
-    "objectID": "projects.html#selected-talks",
-    "href": "projects.html#selected-talks",
-    "title": "Projects",
-    "section": "Selected Talks",
-    "text": "Selected Talks\n\nGrace Tompkins, Joel Dubin, Michael Wallace. Weight Trimming for Flexible Inverse Probability of Treatment and Intensity Weighting. (2024). International Society for Clinical Biostatistics Conference, Thessaloniki, Greece.\nGrace Tompkins, Joel Dubin, Michael Wallace. The Impacts of Noninformative Censoring in the Analysis of Irregular Longitudinal Data with Informative Observation Times and Non-randomized Treatment Assignments. (2023). Eastern North American Region International Biometric Society Conference, Nashville, USA.\nGrace Tompkins, Joel Dubin, Michael Wallace. Adjusting for Informative Observation Times and Non-randomized Exposures via Weighting Methods in Irregular Longitudinal Data Analysis. (2023). American Statistical Association Conference on Statistical Practice, San Francisco, USA.\nGrace Tompkins, Joel A Dubin, Michael Wallace. Accounting for Informative Observation Times and Non-randomized Exposures in Irregular Longitudinal Data Analysis via Weighting Methods. (2022). Waterloo Student Conference in Statistics, Actuarial Sciences, and Finance, Waterloo Canada.\nGrace Tompkins, Michael Wallace, Xavier Loffree. How Do I Choose? Personalized Decision-Making in Multiple Attribute Settings. (2022). American Statistical Association Conference on Statistical Practice, Virtual (USA).\nGrace Tompkins, Derrick G. Lee. Pre-pregnancy Polycyclic Aromatic Hydrocarbons and its Effects on Breast Cancer Development. (2018). Science Atlantic: Mathematics, Statistics, and Computer Science Conference, Moncton, Canada."
-  },
-  {
-    "objectID": "projects.html#publications",
-    "href": "projects.html#publications",
-    "title": "Projects",
-    "section": "Publications",
-    "text": "Publications\n\nTompkins G, Dubin JA, Wallace M. On flexible inverse probability of treatment and intensity weighting: Informative censoring, variable selection, and weight trimming. Statistical Methods in Medical Research. 2025;34(5):915-937. doi:10.1177/09622802241313289\nIjner, P., Tompkins, G., Shiohama, T., Takahashi, E., & Levman, J. (2022). Structural abnormalities in paediatric moyamoya disease revealed by clinical magnetic resonance imaging, regionally distributed relative signal intensities and volumes. International Journal of Developmental Neuroscience, 82(2), 146–158. https://doi.org/10.1002/jdn.10167\nTompkins, G., Levman, J., Ijner, P., Shiohama, T., & Takahashi, E. (2021). Cortical thickness in clinical moyamoya disease: A magnetic resonance imaging study. International Journal of Developmental Neuroscience, 81(8), 698–705. https://doi.org/10.1002/jdn.10146"
+    "objectID": "awards.html#select-awards-and-recognitions",
+    "href": "awards.html#select-awards-and-recognitions",
+    "title": "Awards and Recognitions",
+    "section": "",
+    "text": "NSERC Canadian Graduate Scholarship - Doctoral"
   },
   {
     "objectID": "teaching.html",
@@ -56,18 +63,32 @@
     "text": "Past Cources\n\nSTAT 367: Introduction to Biostatistics (Fall 2023, University of Waterloo)"
   },
   {
-    "objectID": "awards.html",
-    "href": "awards.html",
-    "title": "Awards and Recognitions",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "NSERC Canadian Graduate Scholarship - Doctoral"
+    "text": "Advances in the Analysis of Irregular Longitudinal Data Using Inverse Intensity Weighting. University of Waterloo, 2025."
   },
   {
-    "objectID": "awards.html#select-awards-and-recognitions",
-    "href": "awards.html#select-awards-and-recognitions",
-    "title": "Awards and Recognitions",
+    "objectID": "research.html#phd-dissertation",
+    "href": "research.html#phd-dissertation",
+    "title": "Research",
     "section": "",
-    "text": "NSERC Canadian Graduate Scholarship - Doctoral"
+    "text": "Advances in the Analysis of Irregular Longitudinal Data Using Inverse Intensity Weighting. University of Waterloo, 2025."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nTompkins G, Dubin JA, Wallace M. On flexible inverse probability of treatment and intensity weighting: Informative censoring, variable selection, and weight trimming. Statistical Methods in Medical Research. 2025;34(5):915-937. doi:10.1177/09622802241313289\nIjner, P., Tompkins, G., Shiohama, T., Takahashi, E., & Levman, J. (2022). Structural abnormalities in paediatric moyamoya disease revealed by clinical magnetic resonance imaging, regionally distributed relative signal intensities and volumes. International Journal of Developmental Neuroscience, 82(2), 146–158. https://doi.org/10.1002/jdn.10167\nTompkins, G., Levman, J., Ijner, P., Shiohama, T., & Takahashi, E. (2021). Cortical thickness in clinical moyamoya disease: A magnetic resonance imaging study. International Journal of Developmental Neuroscience, 81(8), 698–705. https://doi.org/10.1002/jdn.10146"
+  },
+  {
+    "objectID": "research.html#selected-talks",
+    "href": "research.html#selected-talks",
+    "title": "Research",
+    "section": "Selected Talks",
+    "text": "Selected Talks\n\nGrace Tompkins, Joel Dubin, Michael Wallace. Weight Trimming for Flexible Inverse Probability of Treatment and Intensity Weighting. (2024). International Society for Clinical Biostatistics Conference, Thessaloniki, Greece.\nGrace Tompkins, Joel Dubin, Michael Wallace. The Impacts of Noninformative Censoring in the Analysis of Irregular Longitudinal Data with Informative Observation Times and Non-randomized Treatment Assignments. (2023). Eastern North American Region International Biometric Society Conference, Nashville, USA.\nGrace Tompkins, Joel Dubin, Michael Wallace. Adjusting for Informative Observation Times and Non-randomized Exposures via Weighting Methods in Irregular Longitudinal Data Analysis. (2023). American Statistical Association Conference on Statistical Practice, San Francisco, USA.\nGrace Tompkins, Joel A Dubin, Michael Wallace. Accounting for Informative Observation Times and Non-randomized Exposures in Irregular Longitudinal Data Analysis via Weighting Methods. (2022). Waterloo Student Conference in Statistics, Actuarial Sciences, and Finance, Waterloo Canada.\nGrace Tompkins, Michael Wallace, Xavier Loffree. How Do I Choose? Personalized Decision-Making in Multiple Attribute Settings. (2022). American Statistical Association Conference on Statistical Practice, Virtual (USA).\nGrace Tompkins, Derrick G. Lee. Pre-pregnancy Polycyclic Aromatic Hydrocarbons and its Effects on Breast Cancer Development. (2018). Science Atlantic: Mathematics, Statistics, and Computer Science Conference, Moncton, Canada."
   },
   {
     "objectID": "index.html",
@@ -82,5 +103,26 @@
     "title": "Grace Tompkins",
     "section": "Education",
     "text": "Education\nPhD in Biostatistics, University of Waterloo | 2025\nMMATH Biostatistics, University of Waterloo | 2020\nBSc Mathematics (Hons.) with Statistics Concentration, St. Francis Xavier University | 2019"
+  },
+  {
+    "objectID": "blog/posts/oct202025.html",
+    "href": "blog/posts/oct202025.html",
+    "title": "Approaching Gen AI Use with Compassion",
+    "section": "",
+    "text": "The overuse of generative artificial intelligence (“Gen AI”) is easily one of the trickiest things to handle in my job. It did not come as a surprise when I found out a number of students were generating their answers using Gen AI on a recent project I assigned to my graduate student class. It’s an easy way to get an answer (it might not be right, but at least it’s something) with minimal effort. Copy and paste the question. Copy and paste the response. Rinse, and repeat.\nI was pretty clear at the start of term about my expectations. I discussed how Gen AI was useful for debugging, like an advanced search engine. I even showed them live in class how I searched key words, and that the AI Summary that appeared on Google was often helpful. I told them copying questions into Chat GPT and using the answer was plagiarism. We even discussed the environmental impacts of Gen AI overuse.\nAnd so, upon my discovery of the use of Gen AI on a major project, my initial reaction was frustration. I was frustrated by the inappropriate use, code plagiarism, and non-human-like answers to reflective questions. Then came a bit of sadness. Did I not teach them well enough to be confident in their skills? Do my students think they aren’t good enough? And then after drafting and deleting a few snarky emails.. the compassion hit. Are these students facing barriers that are causing them to turn to Gen AI?\nAs a recent graduate, I knew how demanding graduate school was outside of coursework. Instead of pointing fingers and berating my students for academic misconduct (which really, it is. I am not dismissing the behaviour), I decided to talk to them. I first told my entire class I was disappointed by the AI use. I gave them a chance to come forward to talk to me about their assessments. I told them honesty was the best policy and for a first offence, nothing would be escalated beyond this course. I understood the temptation to use it.\nI then directly emailed students who I suspected used Gen AI for a large portion of their assignment. I sent them (some form of) the following:\n\nI am a bit concerned about the sophisticated code used that included methods beyond the scope of the course, and the writing/rationales provided in your answers for [assignment].\n\nI believe that honesty is the best policy, so if ChatGPT or any other generative AI software was used on this assessment for more than just debugging/using an advanced search engine, now is your chance to explain how you used it for your assessment. You will receive a 0 on questions that are clearly plagiarized, however I will not escalate it beyond this course. It will not impact your academic record or anything. There is no judgement - I understand the temptation to use LLMs to assist with homework. However for this assessment, it is not acceptable to use it in this way. Let me be super clear - I do not think that this assessment was 100% plagiarized, but there are some of red flags. You will not receive 0 for the entire assessment nor the course.\n\nIf you did not use ChatGPT, please describe to me your coding experience (for example, when did you learn [advanced method] and why did you choose it?) and how you went about choosing your research questions and writing your rationals.\n\nI apologize in advance if this assessment was a genuine attempt and I’ve flagged it as suspicious.\n\nIf you have any questions at all, or would like to discuss this further, please let me know.\n\nThank you very much for your time.\nGrace\n\nEvery student the teaching team flagged did take the opportunity to talk to me directly about the AI use. Most were very regretful, and admitted that their use was inappropriate. Only one doubled-down and sent back a summary explaining their coding experience and a justification for the methods used. I was receptive of this. In all cases, our discussions were open and honest. There were no fingers pointed, and I told them that this did not affect their relationship with me as an instructor and I appreciated their honesty. I do think it takes lot of guts to come forward and admit you did something wrong.\n\nIn our conversations, students admitted they used it for a variety of reasons, including being too overwhelmed with other obligations, have personal matters affecting their ability to complete the assessments on time, and even being embarrassed of their grammar/writing skills. While the use was inappropriate, I empathized. The conversation that struck me the most was about language barriers. I assured the student that I’d rather parse through some imperfect sentences than a robotic response. After all, this isn’t really a communications course.\nI went back and forth about how to deal with this. It is unfair for those to put in the work to grade plagiarized assignments the same. So, for obvious plagiarism, I gave 0 for the question. And I think the ability of the teaching team to sniff out AI use scared them a bit, so I do hope that the second part of this project will be a truer reflection of my students’ abilities. I’m mostly satisfied with the outcome of this, as I do think students will think twice before turning to AI, and use it in a more honest way where appropriate.\nThese students are so bright. I wish they could see that their own work is enough. This case has certainly got me thinking about the future of Gen AI in the classroom, and how to navigate it in the future."
+  },
+  {
+    "objectID": "educationalleadership/classroomtech/classroomtech.html",
+    "href": "educationalleadership/classroomtech/classroomtech.html",
+    "title": "Classroom Technology Training (UW)",
+    "section": "",
+    "text": "A walk-through of the information and technology that you may need to know as a teaching assistant or instructor for the University of Waterloo Faculty of Mathematics. This video is shown every September to new teaching assistants, lecturers, and faculty across the University.\n\nFilmed by Mike Valente. Written and edited by Grace Tompkins."
+  },
+  {
+    "objectID": "educationalleadership/index.html",
+    "href": "educationalleadership/index.html",
+    "title": "Educational Leadership",
+    "section": "",
+    "text": "Here are some teaching-related projects I’ve been involved with!\n\n\n\n\n\n\n\n\n\n\nProf. Tompkins YouTube Channel\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT545 Quarto Website\n\n\n\n\n\n\n\n\n\n\n\n\n\nClassroom Technology Training (UW)\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

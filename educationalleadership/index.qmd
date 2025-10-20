@@ -1,0 +1,21 @@
+---
+title: "Educational Leadership"
+listing:
+  - id: ehr
+    max-description-length: 500
+    image-height: 150px
+    fields: [image, title]
+    contents: 
+      - youtube
+      - stat545
+      - classroomtech
+    type: grid
+    grid-item-border: true
+    sort: false
+---
+
+Here are some teaching-related projects I've been involved with! 
+
+::: {#ehr}
+:::
+

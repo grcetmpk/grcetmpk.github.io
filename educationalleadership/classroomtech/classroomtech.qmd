@@ -1,0 +1,12 @@
+---
+title: "Classroom Technology Training (UW)"
+categories:
+image: "thumbnail_Tech.png"
+href: "https://uwaterloo.ca/statistics-and-actuarial-science/graduate-studies/graduate-student-resources/teaching-assistants-program/teaching-assistants-resources"
+---
+
+A walk-through of the information and technology that you may need to know as a teaching assistant or instructor for the University of Waterloo Faculty of Mathematics. This video is shown every September to new teaching assistants, lecturers, and faculty across the University. 
+
+{{< video youtube.com/watch?v=DzUj-1qgKuY&feature=youtu.be>}}
+
+Filmed by Mike Valente. Written and edited by Grace Tompkins. 
