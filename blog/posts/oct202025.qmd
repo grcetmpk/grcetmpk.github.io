@@ -4,8 +4,8 @@ date: October 20, 2025
 author: Grace Tompkins
 format: html
 categories: 
-  - reflection
-  - teaching
+  - Reflection
+  - Teaching
   - Gen AI
 image: "images/chatgpt_oct202025.jpg"
 ---

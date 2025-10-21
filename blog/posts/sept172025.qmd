@@ -4,8 +4,8 @@ date: September 17, 2025
 author: Grace Tompkins
 format: html
 categories: 
-  - reflection
-  - teaching
+  - Reflection
+  - Teaching
 image: "images/reflection_sept172025.jpg"
 ---
 
