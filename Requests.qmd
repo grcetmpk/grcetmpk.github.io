@@ -5,12 +5,28 @@ editor:
     wrap: 72
 ---
 
+For any of the following requests, please email me at grace \<-at\>
+stat.ubc.ca to discuss.
+
 ## Invitations for Conference, Seminars, Workshops, and Talks
 
 I would love to give a talk on any of my projects or provide a workshop
 on R coding, GitHub, or any other statistics or data science topic that
 is relevant to my work. Please email me at grace \<-at-\> stat.ubc.ca to
 chat!
+
+## Supervising
+
+I am a Teaching Stream faculty member, so I am **not currently
+supervising students**. Please reach out to other Professors in the
+department who are not indicated as being "Teaching Stream".
+
+## Graduate Academic Assistantships (GAAs - Masters, and PhD students only)
+
+I am not actively looking for students, but if you'd like to be involved
+in my future Educational Leadership (teaching-related) projects, feel
+free to reach out. If a project come up where a graduate student could
+be hired, I will let you know!
 
 ## Reference Requests
 
