@@ -18,63 +18,28 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "I’m a Blogger Now?\n\n\n\n\n\n\nReflection\n\n\nTeaching\n\n\n\n\n\n\n\n\n\nSeptember 17, 2025\n\n\nGrace Tompkins\n\n\n\n\n\n\nNo matching items"
+    "text": "My first two months\n\n\n\n\n\n\nReflection\n\n\nTeaching\n\n\n\n\n\n\n\n\n\nNovember 5, 2025\n\n\nGrace Tompkins\n\n\n\n\n\n\n\n\n\n\n\n\nI’m a Blogger Now?\n\n\n\n\n\n\nReflection\n\n\nTeaching\n\n\n\n\n\n\n\n\n\nSeptember 17, 2025\n\n\nGrace Tompkins\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Grace Tompkins",
+    "objectID": "blog/posts/sept172025.html",
+    "href": "blog/posts/sept172025.html",
+    "title": "I’m a Blogger Now?",
     "section": "",
-    "text": "Assistant Professor of Teaching\nDepartment of Statistics, University of British Columbia"
+    "text": "I recently enrolled in a Teaching Development Program (TDP) and in one of the modules we discussed Reflective Teaching. We don’t tend to see much of this in Statistics. Personally, throughout my undergraduate (and graduate) courses not once did anyone ask how I felt or what I thought. Everything was very structured, right or wrong, yes or no, proved correctly or not, with little room to reflect. I was encouraged by the TDP team to start a blog to do more reflection.\nThis blog will serve as a space to collect my jumbled thoughts, and perhaps spark a conversation. I’ll be giving some reflections as I grow throughout this new role, and share resources and stories as I see fit.\nThanks for reading!"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Grace Tompkins",
-    "section": "Education",
-    "text": "Education\nPhD in Biostatistics, University of Waterloo | 2025\nMMATH Biostatistics, University of Waterloo | 2020\nBSc Mathematics (Hons.) with Statistics Concentration, St. Francis Xavier University | 2019"
-  },
-  {
-    "objectID": "Requests.html",
-    "href": "Requests.html",
-    "title": "Requests",
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards and Recognitions",
     "section": "",
-    "text": "For any of the following requests, please email me at grace &lt;-at&gt; stat.ubc.ca to discuss."
+    "text": "NSERC Canadian Graduate Scholarship - Doctoral"
   },
   {
-    "objectID": "Requests.html#invitations-for-conference-seminars-workshops-and-talks",
-    "href": "Requests.html#invitations-for-conference-seminars-workshops-and-talks",
-    "title": "Requests",
-    "section": "Invitations for Conference, Seminars, Workshops, and Talks",
-    "text": "Invitations for Conference, Seminars, Workshops, and Talks\nI would love to give a talk on any of my projects or provide a workshop on R coding, GitHub, or any other statistics or data science topic that is relevant to my work. Please email me at grace &lt;-at-&gt; stat.ubc.ca to chat!"
-  },
-  {
-    "objectID": "Requests.html#reference-requests",
-    "href": "Requests.html#reference-requests",
-    "title": "Requests",
-    "section": "Reference Requests",
-    "text": "Reference Requests\n\nWho Can Request a Reference\nI am happy to provide reference letters for Graduate programs, internships, and employment for students that I know well. This includes:\n\nCurrent and former students I’ve taught more than one time\nCurrent and former students I’ve taught only once, but were active in class and attended office hours\nCurrent and former students I’ve met through committees and can speak to their out-of-class activities\n\n\n\nMy Reference Letter Policy\n\nI can write up to 5 references per student per term. These include reference letters for graduate schools, jobs, and scholarships.\nI need at least 3 weeks to write a reference.\nI need to agree to every reference request BEFORE you write my name down as a reference. Please do not assume!\nYou must provide me with a list of reference letters you need, and details on each application, including the due date, where I submit, what the application is for, and any other information that I may need to write your reference letter. Please compile this into a clear email or document that I can reference.\n\nFor example, if you are applying to a graduate program I highly recommend sending:\n\ninformation on where I submit to (online? via email?)\na link to the program/scholarship you are applying to, along with a brief description about the program\ndetails about why you are applying to a particular school/program\nyour career goals or future plans\na CV\ntranscripts\nany other information you may think is relevant.\n\nPlease email me at grace &lt;-at-&gt; stat.ubc.ca to request a reference letter with all of the above information."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "awards.html#select-awards-and-recognitions",
+    "href": "awards.html#select-awards-and-recognitions",
+    "title": "Awards and Recognitions",
     "section": "",
-    "text": "I strive to provide a safe, accessible, and fun space for all students to learn statistics."
-  },
-  {
-    "objectID": "teaching.html#upcoming-courses",
-    "href": "teaching.html#upcoming-courses",
-    "title": "Teaching",
-    "section": "Upcoming Courses",
-    "text": "Upcoming Courses\n\nSTAT 545 A/B: Exploratory Data Analysis (Fall 2025, University of British Columbia)\nDSCI 100: Introduction to Data Science (Fall 2025, University of British Columbia)"
-  },
-  {
-    "objectID": "teaching.html#past-cources",
-    "href": "teaching.html#past-cources",
-    "title": "Teaching",
-    "section": "Past Cources",
-    "text": "Past Cources\n\nSTAT 367: Introduction to Biostatistics (Fall 2023, University of Waterloo)"
+    "text": "NSERC Canadian Graduate Scholarship - Doctoral"
   },
   {
     "objectID": "research.html",
@@ -105,25 +70,81 @@
     "text": "Selected Talks\n\nGrace Tompkins, Joel Dubin, Michael Wallace. Weight Trimming for Flexible Inverse Probability of Treatment and Intensity Weighting. (2024). International Society for Clinical Biostatistics Conference, Thessaloniki, Greece.\nGrace Tompkins, Joel Dubin, Michael Wallace. The Impacts of Noninformative Censoring in the Analysis of Irregular Longitudinal Data with Informative Observation Times and Non-randomized Treatment Assignments. (2023). Eastern North American Region International Biometric Society Conference, Nashville, USA.\nGrace Tompkins, Joel Dubin, Michael Wallace. Adjusting for Informative Observation Times and Non-randomized Exposures via Weighting Methods in Irregular Longitudinal Data Analysis. (2023). American Statistical Association Conference on Statistical Practice, San Francisco, USA.\nGrace Tompkins, Joel A Dubin, Michael Wallace. Accounting for Informative Observation Times and Non-randomized Exposures in Irregular Longitudinal Data Analysis via Weighting Methods. (2022). Waterloo Student Conference in Statistics, Actuarial Sciences, and Finance, Waterloo Canada.\nGrace Tompkins, Michael Wallace, Xavier Loffree. How Do I Choose? Personalized Decision-Making in Multiple Attribute Settings. (2022). American Statistical Association Conference on Statistical Practice, Virtual (USA).\nGrace Tompkins, Derrick G. Lee. Pre-pregnancy Polycyclic Aromatic Hydrocarbons and its Effects on Breast Cancer Development. (2018). Science Atlantic: Mathematics, Statistics, and Computer Science Conference, Moncton, Canada."
   },
   {
-    "objectID": "awards.html",
-    "href": "awards.html",
-    "title": "Awards and Recognitions",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "NSERC Canadian Graduate Scholarship - Doctoral"
+    "text": "I strive to provide a safe, accessible, and fun space for all students to learn statistics."
   },
   {
-    "objectID": "awards.html#select-awards-and-recognitions",
-    "href": "awards.html#select-awards-and-recognitions",
-    "title": "Awards and Recognitions",
-    "section": "",
-    "text": "NSERC Canadian Graduate Scholarship - Doctoral"
+    "objectID": "teaching.html#upcoming-courses",
+    "href": "teaching.html#upcoming-courses",
+    "title": "Teaching",
+    "section": "Upcoming Courses",
+    "text": "Upcoming Courses\n\nSTAT 545 A/B: Exploratory Data Analysis (Fall 2025, University of British Columbia)\nDSCI 100: Introduction to Data Science (Fall 2025, University of British Columbia)"
   },
   {
-    "objectID": "blog/posts/sept172025.html",
-    "href": "blog/posts/sept172025.html",
-    "title": "I’m a Blogger Now?",
+    "objectID": "teaching.html#past-cources",
+    "href": "teaching.html#past-cources",
+    "title": "Teaching",
+    "section": "Past Cources",
+    "text": "Past Cources\n\nSTAT 367: Introduction to Biostatistics (Fall 2023, University of Waterloo)"
+  },
+  {
+    "objectID": "Requests.html",
+    "href": "Requests.html",
+    "title": "Requests",
     "section": "",
-    "text": "I recently enrolled in a Teaching Development Program (TDP) and in one of the modules we discussed Reflective Teaching. We don’t tend to see much of this in Statistics. Personally, throughout my undergraduate (and graduate) courses not once did anyone ask how I felt or what I thought. Everything was very structured, right or wrong, yes or no, proved correctly or not, with little room to reflect. I was encouraged by the TDP team to start a blog to do more reflection.\nThis blog will serve as a space to collect my jumbled thoughts, and perhaps spark a conversation. I’ll be giving some reflections as I grow throughout this new role, and share resources and stories as I see fit.\nThanks for reading!"
+    "text": "For any of the following requests, please email me at grace &lt;-at&gt; stat.ubc.ca to discuss."
+  },
+  {
+    "objectID": "Requests.html#invitations-for-conference-seminars-workshops-and-talks",
+    "href": "Requests.html#invitations-for-conference-seminars-workshops-and-talks",
+    "title": "Requests",
+    "section": "Invitations for Conference, Seminars, Workshops, and Talks",
+    "text": "Invitations for Conference, Seminars, Workshops, and Talks\nI would love to give a talk on any of my projects or provide a workshop on R coding, GitHub, or any other statistics or data science topic that is relevant to my work. Please email me at grace &lt;-at-&gt; stat.ubc.ca to chat!"
+  },
+  {
+    "objectID": "Requests.html#supervising",
+    "href": "Requests.html#supervising",
+    "title": "Requests",
+    "section": "Supervising",
+    "text": "Supervising\nI am a Teaching Stream faculty member, so I am not currently supervising students. Please reach out to other Professors in the department who are not indicated as being “Teaching Stream”."
+  },
+  {
+    "objectID": "Requests.html#graduate-academic-assistantships-gaas---masters-and-phd-students-only",
+    "href": "Requests.html#graduate-academic-assistantships-gaas---masters-and-phd-students-only",
+    "title": "Requests",
+    "section": "Graduate Academic Assistantships (GAAs - Masters, and PhD students only)",
+    "text": "Graduate Academic Assistantships (GAAs - Masters, and PhD students only)\nI am not actively looking for students, but if you’d like to be involved in my future Educational Leadership (teaching-related) projects, feel free to reach out. If a project come up where a graduate student could be hired, I will let you know!"
+  },
+  {
+    "objectID": "Requests.html#reference-requests",
+    "href": "Requests.html#reference-requests",
+    "title": "Requests",
+    "section": "Reference Requests",
+    "text": "Reference Requests\n\nWho Can Request a Reference\nI am happy to provide reference letters for Graduate programs, internships, and employment for students that I know well. This includes:\n\nCurrent and former students I’ve taught more than one time\nCurrent and former students I’ve taught only once, but were active in class and attended office hours\nCurrent and former students I’ve met through committees and can speak to their out-of-class activities\n\n\n\nMy Reference Letter Policy\n\nI can write up to 5 references per student per term. These include reference letters for graduate schools, jobs, and scholarships.\nI need at least 3 weeks to write a reference.\nI need to agree to every reference request BEFORE you write my name down as a reference. Please do not assume!\nYou must provide me with a list of reference letters you need, and details on each application, including the due date, where I submit, what the application is for, and any other information that I may need to write your reference letter. Please compile this into a clear email or document that I can reference.\n\nFor example, if you are applying to a graduate program I highly recommend sending:\n\ninformation on where I submit to (online? via email?)\na link to the program/scholarship you are applying to, along with a brief description about the program\ndetails about why you are applying to a particular school/program\nyour career goals or future plans\na CV\ntranscripts\nany other information you may think is relevant.\n\nPlease email me at grace &lt;-at-&gt; stat.ubc.ca to request a reference letter with all of the above information."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grace Tompkins",
+    "section": "",
+    "text": "Assistant Professor of Teaching\nDepartment of Statistics, University of British Columbia"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Grace Tompkins",
+    "section": "Education",
+    "text": "Education\nPhD in Biostatistics, University of Waterloo | 2025\nMMATH Biostatistics, University of Waterloo | 2020\nBSc Mathematics (Hons.) with Statistics Concentration, St. Francis Xavier University | 2019"
+  },
+  {
+    "objectID": "blog/posts/nov52025.html",
+    "href": "blog/posts/nov52025.html",
+    "title": "My first two months",
+    "section": "",
+    "text": "I’ve now been teaching both graduate and undergraduate for two full months! I must say, although the imposter syndrome creeps in and I have days where I doubt myself, I am really enjoying my job.\nOne thing I’m really enjoying is making my YouTube tutorials. It helps me prep for my STAT545 lecture, almost acting as a practice run, and allows me to use my video editing and social media experience in a creative way. I’ve heard that my students are also enjoying them, and sharing them with their friends in their labs who are looking to learn about doing research with R! I hope that I can teach STAT545 again so I can reuse my videos next year!\nI am also so impressed with my students this term. They really surprise me everyday (in mostly good ways!). They are so creative, driven, and such a joy to be around. It’s hard to believe this term has only four weeks of classes left before the exam period, and then another group of students will be in my classroom.\nTwo months down and many more (hopefully) to go!"
   },
   {
     "objectID": "educationalleadership/classroomtech/classroomtech.html",
@@ -138,40 +159,5 @@
     "title": "Educational Leadership",
     "section": "",
     "text": "Here are some teaching-related projects I’ve been involved with!\n\n\n\n\n\n\n\n\n\n\nProf. Tompkins YouTube Channel\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT545 Quarto Website\n\n\n\n\n\n\n\n\n\n\n\n\n\nClassroom Technology Training (UW)\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "Requests.html#supervising",
-    "href": "Requests.html#supervising",
-    "title": "Requests",
-    "section": "Supervising",
-    "text": "Supervising\nI am a Teaching Stream faculty member, so I am not currently supervising students. Please reach out to other Professors in the department who are not indicated as being “Teaching Stream”."
-  },
-  {
-    "objectID": "Requests.html#educational-projects-masters-and-phd-students",
-    "href": "Requests.html#educational-projects-masters-and-phd-students",
-    "title": "Requests",
-    "section": "Educational Projects (Masters, and PhD students)",
-    "text": "Educational Projects (Masters, and PhD students)\nI am not actively looking for students, but if you’d like to be involved in my future Educational Leadership (teaching-related) projects, feel free to reach out. If a project come up where a graduate student could be hired, I will let you know!"
-  },
-  {
-    "objectID": "Requests.html#gas-for-educational-projects-masters-and-phd-students",
-    "href": "Requests.html#gas-for-educational-projects-masters-and-phd-students",
-    "title": "Requests",
-    "section": "GAs for Educational Projects (Masters, and PhD students)",
-    "text": "GAs for Educational Projects (Masters, and PhD students)\nI am not actively looking for students, but if you’d like to be involved in my future Educational Leadership (teaching-related) projects, feel free to reach out. If a project come up where a graduate student could be hired, I will let you know!"
-  },
-  {
-    "objectID": "Requests.html#gaas-for-educational-projects-masters-and-phd-students",
-    "href": "Requests.html#gaas-for-educational-projects-masters-and-phd-students",
-    "title": "Requests",
-    "section": "GAAs for Educational Projects (Masters, and PhD students)",
-    "text": "GAAs for Educational Projects (Masters, and PhD students)\nI am not actively looking for students, but if you’d like to be involved in my future Educational Leadership (teaching-related) projects, feel free to reach out. If a project come up where a graduate student could be hired, I will let you know!"
-  },
-  {
-    "objectID": "Requests.html#graduate-academic-assistantships-gaas---masters-and-phd-students-only",
-    "href": "Requests.html#graduate-academic-assistantships-gaas---masters-and-phd-students-only",
-    "title": "Requests",
-    "section": "Graduate Academic Assistantships (GAAs - Masters, and PhD students only)",
-    "text": "Graduate Academic Assistantships (GAAs - Masters, and PhD students only)\nI am not actively looking for students, but if you’d like to be involved in my future Educational Leadership (teaching-related) projects, feel free to reach out. If a project come up where a graduate student could be hired, I will let you know!"
   }
 ]

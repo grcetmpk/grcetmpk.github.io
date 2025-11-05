@@ -1,0 +1,18 @@
+---
+title: "My first two months"
+date: November 5, 2025
+author: Grace Tompkins
+format: html
+categories: 
+  - Reflection
+  - Teaching
+image: "images/reflection_nov52025.jpg"
+---
+
+I've now been teaching both graduate and undergraduate for two full months! I must say, although the imposter syndrome creeps in and I have days where I doubt myself, I am really enjoying my job. 
+
+One thing I'm really enjoying is making my YouTube tutorials. It helps me prep for my STAT545 lecture, almost acting as a practice run, and allows me to use my video editing and social media experience in a creative way. I've heard that my students are also enjoying them, and sharing them with their friends in their labs who are looking to learn about doing research with R! I hope that I can teach STAT545 again so I can reuse my videos next year!
+
+I am also so impressed with my students this term. They really surprise me everyday (in mostly good ways!). They are so creative, driven, and such a joy to be around. It's hard to believe this term has only four weeks of classes left before the exam period, and then another group of students will be in my classroom. 
+
+Two months down and many more (hopefully) to go!
