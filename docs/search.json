@@ -77,18 +77,25 @@
     "text": "I strive to provide a safe, accessible, and fun space for all students to learn statistics."
   },
   {
+    "objectID": "teaching.html#current-courses",
+    "href": "teaching.html#current-courses",
+    "title": "Teaching",
+    "section": "Current Courses",
+    "text": "Current Courses\n\nSTAT 545 A/B: Exploratory Data Analysis (Fall 2025, University of British Columbia)\nDSCI 100: Introduction to Data Science (Fall 2025, University of British Columbia)"
+  },
+  {
     "objectID": "teaching.html#upcoming-courses",
     "href": "teaching.html#upcoming-courses",
     "title": "Teaching",
     "section": "Upcoming Courses",
-    "text": "Upcoming Courses\n\nSTAT 545 A/B: Exploratory Data Analysis (Fall 2025, University of British Columbia)\nDSCI 100: Introduction to Data Science (Fall 2025, University of British Columbia)"
+    "text": "Upcoming Courses\n\nDSCI 100: Introduction to Data Science (Winter 2026, University of British Columbia)\nSTAT 450: Case Studies in Statistics (Winter 2026, University of British Columbia)"
   },
   {
-    "objectID": "teaching.html#past-cources",
-    "href": "teaching.html#past-cources",
+    "objectID": "teaching.html#past-courses",
+    "href": "teaching.html#past-courses",
     "title": "Teaching",
-    "section": "Past Cources",
-    "text": "Past Cources\n\nSTAT 367: Introduction to Biostatistics (Fall 2023, University of Waterloo)"
+    "section": "Past Courses",
+    "text": "Past Courses\n\nSTAT 337: Introduction to Biostatistics (Fall 2023, University of Waterloo)"
   },
   {
     "objectID": "Requests.html",

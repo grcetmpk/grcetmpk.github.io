@@ -4,11 +4,16 @@ title: "Teaching"
 
 *I strive to provide a safe, accessible, and fun space for all students to learn statistics.*
 
+## Current Courses
+
+-   [STAT 545 A/B:](https://ubc-stat.github.io/STAT545.github.io/) *Exploratory Data Analysis* (Fall 2025, University of British Columbia)
+-   [DSCI 100:](https://ubc-dsci.github.io/dsci-100-student/) *Introduction to Data Science* (Fall 2025, University of British Columbia)
+
 ## Upcoming Courses
 
--   [STAT 545 A/B: *Exploratory Data Analysis*](https://ubc-stat.github.io/STAT545.github.io/) (Fall 2025, University of British Columbia)
--   DSCI 100: *Introduction to Data Science* (Fall 2025, University of British Columbia)
+-   [DSCI 100:](https://ubc-dsci.github.io/dsci-100-student/) *Introduction to Data Science* (Winter 2026, University of British Columbia)
+-   [STAT 450:](https://ubc-stat.github.io/stat-450/) *Case Studies in Statistics* (Winter 2026, University of British Columbia)
 
-## Past Cources
+## Past Courses
 
--   STAT 367: *Introduction to Biostatistics* (Fall 2023, University of Waterloo)
+-   [STAT 337](https://uwflow.com/course/stat337): *Introduction to Biostatistics* (Fall 2023, University of Waterloo)
