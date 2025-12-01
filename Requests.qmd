@@ -6,29 +6,38 @@ editor:
 ---
 
 For any of the following requests, please email me at grace \<-at\>
-stat.ubc.ca to discuss.
+stat.ubc.ca or fill out the form at the bottom of this page.
 
-## Invitations for Conference, Seminars, Workshops, and Talks
+## 🌿 Mentoring
+
+I am very eager to provide mentoring to undergraduate and graduate
+students! This will provide students with an opportunity to form
+meaningful connections and get advice on majors/minors, graduate school,
+careers, and more.
+
+I am happy to meet to discuss non-course related topics. Please reach
+out and we can set a time to meet either in person or over Zoom.
+
+## ✉️ Invitations for Conference, Seminars, Workshops, and Talks
 
 I would love to give a talk on any of my projects or provide a workshop
 on R coding, GitHub, or any other statistics or data science topic that
-is relevant to my work. Please email me at grace \<-at-\> stat.ubc.ca to
-chat!
+is relevant to my work.
 
-## Supervising
+## 👩‍🔬 Supervising
 
 I am a Teaching Stream faculty member, so I am **not currently
 supervising students**. Please reach out to other Professors in the
 department who are not indicated as being "Teaching Stream".
 
-## Graduate Academic Assistantships (GAAs - Masters, and PhD students only)
+## 🗂️ Graduate Academic Assistantships (GAAs - Masters, and PhD students only)
 
 I am not actively looking for students, but if you'd like to be involved
 in my future Educational Leadership (teaching-related) projects, feel
 free to reach out. If a project come up where a graduate student could
 be hired, I will let you know!
 
-## Reference Requests
+## 📝 Reference Requests
 
 ### Who Can Request a Reference
 
@@ -76,5 +85,24 @@ recommend sending:
 
 -   any other information you may think is relevant.
 
-Please email me at grace \<-at-\> stat.ubc.ca to request a reference
-letter with all of the above information.
+```{=html}
+<div class="container">
+  <h2> Leave a note with your request and I'll get back to you. </h5>
+  <form target="_blank" action="https://formsubmit.co/grace@stat.ubc.ca" method="POST">
+    <div class="form-group">
+      <div class="form-row">
+        <div class="col">
+          <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+        </div>
+        <div class="col">
+          <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <textarea placeholder="Your Request" class="form-control" name="message" rows="10" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</button>
+  </form>
+</div>
+```
