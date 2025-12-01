@@ -8,7 +8,7 @@ editor:
 For any of the following requests, please email me at grace \<-at\>
 stat.ubc.ca or fill out the form at the bottom of this page.
 
-## 🌿 Mentoring
+### 🌿 Mentoring
 
 I am very eager to provide mentoring to undergraduate and graduate
 students! This will provide students with an opportunity to form
@@ -18,28 +18,27 @@ careers, and more.
 I am happy to meet to discuss non-course related topics. Please reach
 out and we can set a time to meet either in person or over Zoom.
 
-## ✉️ Invitations for Conference, Seminars, Workshops, and Talks
+### ✉️ Invitations for Conference, Seminars, Workshops, and Talks
 
 I would love to give a talk on any of my projects or provide a workshop
 on R coding, GitHub, or any other statistics or data science topic that
 is relevant to my work.
 
-## 👩‍🔬 Supervising
+### 👩‍🔬 Supervising
 
 I am a Teaching Stream faculty member, so I am **not currently
 supervising students**. Please reach out to other Professors in the
 department who are not indicated as being "Teaching Stream".
 
-## 🗂️ Graduate Academic Assistantships (GAAs - Masters, and PhD students only)
+### 🗂️ Graduate Academic Assistantships (GAAs - Masters, and PhD students only)
 
 I am not actively looking for students, but if you'd like to be involved
 in my future Educational Leadership (teaching-related) projects, feel
 free to reach out. If a project come up where a graduate student could
 be hired, I will let you know!
 
-## 📝 Reference Requests
+### 📝 Reference Requests
 
-### Who Can Request a Reference
 
 I am happy to provide reference letters for Graduate programs,
 internships, and employment for students that I know well. This
@@ -51,7 +50,7 @@ includes:
 -   Current and former students I've met through committees and can
     speak to their out-of-class activities
 
-### My Reference Letter Policy
+My Reference Letter Policy:
 
 1)  I can write up to 5 references per student per term. These include
     reference letters for graduate schools, jobs, and scholarships.
