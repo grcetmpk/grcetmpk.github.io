@@ -1,0 +1,41 @@
+---
+title: "Reflecting on 2025 and Plans for 2026"
+date: January 2, 2026
+author: Grace Tompkins
+format: html
+categories: 
+  - Reflection
+  - Teaching
+image: "images/snoopynewyear.png"
+---
+
+### 2025 Recap 
+
+2025 brought so much joy in my personal and professional life. I defended my PhD, spent a month in Japan, moved to Vancouver, snuck in a few visits home on the East Coast, got really into pottery, and started my career as an Assistant Professor of Teaching. 
+
+I remember grinding out my thesis last January just hoping and praying that I would pass the defense, and that my work would be enough. I was never very confident as a researcher, and I missed teaching so much. I had applied to a teaching stream position at UBC a month prior with only hopes of getting an interview. I had no idea how much my life would change over the next year. 
+
+
+**STAT545** was such a fun course - I really loved getting creative and having autonomy over the material. I also LOVED teaching grad students! I learned all about Quarto, and started my little YouTube channel with mini-lectures that followed the course's content. While I know I can't please them all, I left the course with the impression that most of my students enjoyed it, and felt that they had learned real skills that would help them out as budding researchers. These students were amazing - I hope I'm lucky enough to have a class like them again next year. 
+
+**DSCI100** was unlike anything that I had taught before. Every lecture was pre-made and meticulously scheduled, and there were sooo many students/sections. At first, I honestly found it tough to be lecturing off of slides that I hadn't made, using a platform I was unfamiliar with. I still don't like RISE/Jupyter (lol) but in the end, I grew to really appreciate the minimal administrative work that this course entailed. It allowed me to focus more of my time on the students - offering extra office hours, monitoring Piazza (a bit obsessively, perhaps) and hosting an exam review session. I was able to fill in for my colleagues when needed, as well. I learned that many students appreciated my enthusiastic nature (again, not all of them. Some called me corny) and it allowed me to be more confident at the podium. I also really appreciated my colleagues in this course. The were so patient, experienced, and willing to help out the newbie. 
+
+I also snuck in some training - I started the [Teaching Development Program for New Faculty](https://ctlt.ubc.ca/programs/faculty-programs/new-to-ubc/teaching-development-program-for-new-faculty/), which included a 24-hour [Instructional Skills Workshop](https://ctlt.ubc.ca/programs/faculty-programs/instructional-skills-workshop-isw/). I'm really enjoying this program so far, and am looking forward to attending more workshops in the Winter term. I'm also currently completing the [Fundamentals of OCAP](https://fnigc.ca/ocap-training/take-the-course/) course to learn more about Indigenous Data Sovereignty. I plan to weave in the principals of OCAP into my future courses, and am starting to work on a repository focusing on [Indigenizing Statistics and Data Science Undergraduate Courses](https://grcetmpk.github.io/IndigenizingSDSE.github.io/). 
+
+I'm really proud of what I accomplished in my first term at UBC. All I wanted to do was support my students and teach them the absolute best that I could. I definitely gave it my best shot.  
+
+### 2026 Goals 
+
+I'm setting reasonable goals this year. 
+
+Along side my usual teaching duties I really want to work more on the [Indigenizing Statistics and Data Science Undergraduate Courses](https://grcetmpk.github.io/IndigenizingSDSE.github.io/) project that I previously mentioned. I feel as though I have a solid foundation to start reaching out to other faculty members (perhaps in other departments) to see if they're interested in contributing to this project. This is one that I'm really excited about! 
+
+I also want to continue to grow my YouTube video catalog and add more topics, including those that go hand-in-hand with DSCI 100! That was something that was requested by my students last term (they requested this at the end of the term so it wasn't feasible for me to get it done for my last cohort of students). 
+
+This term, I'm also going to be better with my boundaries. No 24/7 Slack monitoring. Emails can wait. Piazza can wait. I need to let my evenings be for myself and my own wellness. More walks! More crafting! Less screen time. Less working on days off (I say as I write this over my Holiday break...).
+
+I can only hope 2026 is half as good as 2025. Here's to the new year! 
+
+
+
+

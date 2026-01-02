@@ -6,7 +6,7 @@ format: html
 categories: 
   - Reflection
   - Teaching
-image: "images/calendar.png"
+image: "images/welcomeback.jpg"
 ---
 
 I've now been teaching both graduate and undergraduate for two full months! I must say, although the imposter syndrome creeps in and I have days where I doubt myself, I am really enjoying my job. 

@@ -6,7 +6,7 @@ format: html
 categories: 
   - Reflection
   - Teaching
-image: "images/reflection_sept172025.jpg"
+image: "images/blogger.png"
 ---
 
 I recently enrolled in a Teaching Development Program (TDP) and in one of the modules we discussed Reflective Teaching. We don't tend to see much of this in Statistics. Personally, throughout my undergraduate (and graduate) courses not once did anyone ask how I felt or what I thought. Everything was very structured, right or wrong, yes or no, proved correctly or not, with little room to reflect. I was encouraged by the TDP team to start a blog to do more reflection.
