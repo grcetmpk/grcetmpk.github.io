@@ -8,6 +8,7 @@ listing:
     contents: 
       - youtube
       - stat545
+      - candyshop
       - classroomtech
     type: grid
     grid-item-border: true
