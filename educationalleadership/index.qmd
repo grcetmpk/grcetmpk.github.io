@@ -7,6 +7,7 @@ listing:
     fields: [image, title]
     contents: 
       - youtube
+      - gitworkshop
       - stat545
       - candyshop
       - classroomtech

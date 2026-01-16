@@ -9,7 +9,7 @@ href: "https://grcetmpk.shinyapps.io/bootstrap_dsci100/"
 
 An RShiny app developed to demonstrate the basics of the sampling and bootstrap distributions at a preliminary level. This app was developed using Google Gemini.
 
-Shiny App: <https://ubc-stat.github.io/STAT545.github.io/>
+Shiny App: <https://grcetmpk.shinyapps.io/bootstrap_dsci100/>
 
 YouTube Video: <https://www.youtube.com/watch?v=DVh9moRHKN0&t=1s>
 

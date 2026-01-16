@@ -2,7 +2,7 @@
 title: "Grace Tompkins"
 about:
   template: jolla
-  image: images/avatar.png
+  image: images/avatar_casual_bright.jpg
   links:
     - icon: github
       text: GitHub
