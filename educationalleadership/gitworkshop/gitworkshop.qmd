@@ -2,40 +2,13 @@
 title: "Git Workshop"
 categories:
 image: "gitworkshop.png"
-href: "https://www.youtube.com/@proftompkins"
+href: "https://grcetmpk.github.io/ssc-virtualskills-feb2026/"
 ---
 
-An invited Virtual Skills workshop for graduate students to learn about
-version control tools starting from the very basics.
+![](gitworkshop.png)
 
-**Full Description:**
+</br>
 
-In this workshop, we will learn how to set up Git on RStudio, and
-connect our projects to GitHub confidently. Specifically, we will learn
-how to:
+An invited Virtual Skills workshop for graduate students to learn about version control tools starting from the very basics.
 
--   Initialize Git in RStudio,
-
--   Connect our R Projects with Git
-
--   Synchronize our local projects to GitHub (R project first)
-
--   Clone a project that exists on GitHub to RStudio (GitHub first)
-
--   Stage, Commit, and Push local changes using command line or
-    RStudio’s built in Git panel, and
-
--   Pull changes from GitHub to your local project.
-
-This workshop was designed for R coders with no prior experience with
-Git’s version control system.
-
-
-## Slides
-
-[Link to Slides](https://grcetmpk.github.io/ssc-virtualskills-feb2026/slides)
-
-[GitHub Repository](https://github.com/grcetmpk/ssc-virtualskills-feb2026)
-
-
-
+[Click here to view the workshop materials](https://grcetmpk.github.io/ssc-virtualskills-feb2026/)
