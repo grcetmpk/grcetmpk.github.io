@@ -1,0 +1,72 @@
+---
+title: "(Not) Having It Figured Out in Undergrad"
+date: January 23, 2026
+author: Grace Tompkins
+format: html
+categories: 
+  - Reflection
+  - Careers
+image: "images/choices.png"
+---
+
+### The Pressure to Choose
+
+I've had so many conversations with students recently about careers, choosing a major, and going to graduate school. A lot of students are feeling internal and external pressures to have their entire careers and lives figured out from the moment they step foot on campus.
+
+When asked for advice on these choices, I have a rather frustrating answer for them... My answer is that you don't need to have it figured out, and that university is the time to explore. It would be pretty boring if everyone that went into data science had the exact same training, exact same courses, exact same goals. The cool part about university is being able to diversify your knowledge and try new things.
+
+The truth is that I didn't have anything figured out until the 11th hour of each stage of my academic career. I decided to go to graduate school in Fall term of my final year of undergrad. I applied for a PhD in the 10th month of my 12 month master's program. With 6 months left of my 5-year-long PhD, I was starting to apply for jobs.
+
+It's tough to not have it figured out when everything you see on LinkedIn appears to be some sort of linear progress toward prestigious careers and acceptance letters from schools and employers. I'm writing this to tell you that the most informative parts of my academic journey were ones that I tried and failed.
+
+### My Undergraduate Experience
+
+The only things I knew when I started university were:
+
+1)  I was good at math (at least calculus),
+
+2)  I didn't want to be an engineer (for some reason everyone in my high school class went into it), and
+
+3)  I was interested in health problems, but I was not good enough with blood and guts to be in medicine.
+
+I went to a really small school, StFX University, in Antigonish Nova Scotia with fairly limited options for programs. In Science, I could do math (which included statistics and computer science at the time), chem, physics, or bio. I actually started with the intent of majoring in physics but I had one professor (who I would have to take courses from over and over again) that completely ruined my experience with inappropriate (sexist and ableist) teaching.
+
+From there, I found myself in a general math program that I enjoyed, but couldn't see myself working in forever. I thought maybe I could be an actuary, but after one internship I knew it wasn't for me. I was swayed toward actuarial sciences by the dollar signs in the salary, but at the end of the day the day-to-day work just wasn't aligning with my personal interests. After an internship at an insurance company, I knew that path wasn't for me. I was really lost - at one point I thought about switching schools and programs.
+
+I snapped back into reality and went back to school in my math program. In my third year, directly after my disappointing internship, I took a topics course on epidemiology with an incredible professor, Dr. Derrick Lee. This course perfectly blended theory and application, and seemed like something that someone could actually get a job in. I did not have graduate school on my mind - to be honest I was just trying to keep everything together during my undergrad degree (I struggled with my mental wellness throughout this degree), and I didn't really understand what grad school was as a first generation student.
+
+That summer, Derrick hired me to work with him as a research assistant. I learned to code in R, and got to work on a project that investigated occupational exposures for breast cancer. I really enjoyed the work and learned a lot about epidemiology and biostatistics. He suggested near the end of the summer of my third year that I think critically about applying to graduate school in the fall. My job prospects were pretty dire so I obliged.
+
+As a first generation student, I didn't have any adults in my life that went to graduate school. I didn't understand the process, what it entailed, or really what it was. Derrick's mentorship was life changing for me. He helped me draft my application, connected me with professors at other institutions, wrote me a reference, helped me apply for scholarships, and sat to talk with me about all of my options. These are all things I hope to pay-it-forward with in my new role as a mentor.
+
+## My Thoughts on a Master's Degree
+
+Thinking about a master's degree? If you;
+
+-   have enough steam to be a student for 1-2 more years,
+
+-   don't feel like you're done with learning,
+
+-   are curious about research, and
+
+-   are okay with the opportunity cost of not working for a year or two
+
+then a Master's degree is something to consider. I learned so much and got exposed to so much of a new-to-me discipline (biostatistics) and got a taste of research.
+
+I also want to break down a few misconceptions about a Master's degree:
+
+-   Not every master's degree is a commitment to a thesis. Many schools have alternatives, including coursework, research paper (mini-thesis), or co-ops.
+
+-   You also don't need to be an expert in a particular field to get a master's; that's what the program is for! I didn't have any real biostatistics experience prior to my master's degree. Most of my classmates didn't have research experience, either.
+
+-   A master's degree won't "pigeonhole" you to a particular field. I have friends who were trained as biostatisticians and are now working in finance.
+
+-   Some Master's degrees are as short as 8 months, and others can last years.
+
+-   No applicant is perfect, and if you have a period of your life where your grades slipped for personal reasons (i.e., mental/physical illness, trajedies), there is an opportunity to explain this on most applications.
+
+-   Graduate school will always be there - you don't need to go right away. I had classmates who had freshly finished their undergraduate degrees, and those who decided to go back to school later in life.
+
+### Final Thoughts
+
+If you've made it this far, I hope you have a sense of normality on how you are navigating your own academic journey and choices. My path was not very clear or linear - and yours doesn't have to be either. I'm still figuring it all out!
