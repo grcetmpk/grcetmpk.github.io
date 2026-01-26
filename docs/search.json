@@ -7,25 +7,32 @@
     "text": "A re-vamp of the STAT545 course website at UBC, now using Quarto!\nWebsite: https://ubc-stat.github.io/STAT545.github.io/\nGitHub Repository: https://github.com/UBC-STAT/STAT545.github.io"
   },
   {
-    "objectID": "educationalleadership/youtube/youtube.html",
-    "href": "educationalleadership/youtube/youtube.html",
-    "title": "Prof. Tompkins YouTube Channel",
+    "objectID": "educationalleadership/index.html",
+    "href": "educationalleadership/index.html",
+    "title": "Educational Leadership",
     "section": "",
-    "text": "A collection of short lectures on various topics in Statistics and Data Science. Check it out on YouTube (@ProfTompkins).\nExample video below:"
+    "text": "Here are some teaching-related projects I’ve been involved with!\n\n\n\n\n\n\n\n\n\n\nProf. Tompkins YouTube Channel\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit Workshop\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Webpages Workshop for R-Ladies+\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT545 Quarto Website\n\n\n\n\n\n\n\n\n\n\n\n\n\nBootstrapping Applet (Grace’s Candy Shop)\n\n\n\n\n\n\n\n\n\n\n\n\n\nClassroom Technology Training (UW)\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "educationalleadership/candyshop/candyshop.html",
-    "href": "educationalleadership/candyshop/candyshop.html",
-    "title": "Bootstrapping Applet (Grace’s Candy Shop)",
+    "objectID": "educationalleadership/classroomtech/classroomtech.html",
+    "href": "educationalleadership/classroomtech/classroomtech.html",
+    "title": "Classroom Technology Training (UW)",
     "section": "",
-    "text": "An RShiny app developed to demonstrate the basics of the sampling and bootstrap distributions at a preliminary level. This app was developed using Google Gemini.\nShiny App: https://grcetmpk.shinyapps.io/bootstrap_dsci100/\nYouTube Video: https://www.youtube.com/watch?v=DVh9moRHKN0&t=1s\nGitHub Repository: https://github.com/grcetmpk/Bootstrap-DSCI100"
+    "text": "A walk-through of the information and technology that you may need to know as a teaching assistant or instructor for the University of Waterloo Faculty of Mathematics. This video is shown every September to new teaching assistants, lecturers, and faculty across the University.\n\nFilmed by Mike Valente. Written and edited by Grace Tompkins."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "educationalleadership/gitworkshop/gitworkshop.html",
+    "href": "educationalleadership/gitworkshop/gitworkshop.html",
+    "title": "Git Workshop",
     "section": "",
-    "text": "(Not) Having It Figured Out in Undergrad\n\n\n\n\n\n\nReflection\n\n\nCareers\n\n\n\n\n\n\n\n\n\nJanuary 23, 2026\n\n\nGrace Tompkins\n\n\n\n\n\n\n\n\n\n\n\n\nReflecting on 2025 and Plans for 2026\n\n\n\n\n\n\nReflection\n\n\nTeaching\n\n\n\n\n\n\n\n\n\nJanuary 2, 2026\n\n\nGrace Tompkins\n\n\n\n\n\n\n\n\n\n\n\n\nMy first two months\n\n\n\n\n\n\nReflection\n\n\nTeaching\n\n\n\n\n\n\n\n\n\nNovember 5, 2025\n\n\nGrace Tompkins\n\n\n\n\n\n\n\n\n\n\n\n\nI’m a Blogger Now?\n\n\n\n\n\n\nReflection\n\n\nTeaching\n\n\n\n\n\n\n\n\n\nSeptember 17, 2025\n\n\nGrace Tompkins\n\n\n\n\n\n\nNo matching items"
+    "text": "An invited Virtual Skills workshop for graduate students to learn about version control tools starting from the very basics.\nClick here to view the workshop materials"
+  },
+  {
+    "objectID": "blog/posts/nov52025.html",
+    "href": "blog/posts/nov52025.html",
+    "title": "My first two months",
+    "section": "",
+    "text": "I’ve now been teaching both graduate and undergraduate for two full months! I must say, although the imposter syndrome creeps in and I have days where I doubt myself, I am really enjoying my job.\nOne thing I’m really enjoying is making my YouTube tutorials. It helps me prep for my STAT545 lecture, almost acting as a practice run, and allows me to use my video editing and social media experience in a creative way. I’ve heard that my students are also enjoying them, and sharing them with their friends in their labs who are looking to learn about doing research with R! I hope that I can teach STAT545 again so I can reuse my videos next year!\nI am also so impressed with my students this term. They really surprise me everyday (in mostly good ways!). They are so creative, driven, and such a joy to be around. It’s hard to believe this term has only four weeks of classes left before the exam period, and then another group of students will be in my classroom.\nTwo months down and many more (hopefully) to go!"
   },
   {
     "objectID": "blog/posts/sept172025.html",
@@ -126,41 +133,6 @@
     "text": "2025 Recap\n2025 brought so much joy in my personal and professional life. I defended my PhD, spent a month in Japan, moved to Vancouver, snuck in a few visits home on the East Coast, got really into pottery, and started my career as an Assistant Professor of Teaching.\nI remember grinding out my thesis last January just hoping and praying that I would pass the defense, and that my work would be enough. I was never very confident as a researcher, and I missed teaching so much. I had applied to a teaching stream position at UBC a month prior with only hopes of getting an interview. I had no idea how much my life would change over the next year.\nSTAT545 was such a fun course - I really loved getting creative and having autonomy over the material. I also LOVED teaching grad students! I learned all about Quarto, and started my little YouTube channel with mini-lectures that followed the course’s content. While I know I can’t please them all, I left the course with the impression that most of my students enjoyed it, and felt that they had learned real skills that would help them out as budding researchers. These students were amazing - I hope I’m lucky enough to have a class like them again next year.\nDSCI100 was unlike anything that I had taught before. Every lecture was pre-made and meticulously scheduled, and there were sooo many students/sections. At first, I honestly found it tough to be lecturing off of slides that I hadn’t made, using a platform I was unfamiliar with. I still don’t like RISE/Jupyter (lol) but in the end, I grew to really appreciate the minimal administrative work that this course entailed. It allowed me to focus more of my time on the students - offering extra office hours, monitoring Piazza (a bit obsessively, perhaps) and hosting an exam review session. I was able to fill in for my colleagues when needed, as well. I learned that many students appreciated my enthusiastic nature (again, not all of them. Some called me corny) and it allowed me to be more confident at the podium. I also really appreciated my colleagues in this course. The were so patient, experienced, and willing to help out the newbie.\nI also snuck in some training - I started the Teaching Development Program for New Faculty, which included a 24-hour Instructional Skills Workshop. I’m really enjoying this program so far, and am looking forward to attending more workshops in the Winter term. I’m also currently completing the Fundamentals of OCAP course to learn more about Indigenous Data Sovereignty. I plan to weave in the principals of OCAP into my future courses, and am starting to work on a repository focusing on Indigenizing Statistics and Data Science Undergraduate Courses.\nI’m really proud of what I accomplished in my first term at UBC. All I wanted to do was support my students and teach them the absolute best that I could. I definitely gave it my best shot.\n\n\n2026 Goals\nI’m setting reasonable goals this year.\nAlong side my usual teaching duties I really want to work more on the Indigenizing Statistics and Data Science Undergraduate Courses project that I previously mentioned. I feel as though I have a solid foundation to start reaching out to other faculty members (perhaps in other departments) to see if they’re interested in contributing to this project. This is one that I’m really excited about!\nI also want to continue to grow my YouTube video catalog and add more topics, including those that go hand-in-hand with DSCI 100! That was something that was requested by my students last term (they requested this at the end of the term so it wasn’t feasible for me to get it done for my last cohort of students).\nThis term, I’m also going to be better with my boundaries. No 24/7 Slack monitoring. Emails can wait. Piazza can wait. I need to let my evenings be for myself and my own wellness. More walks! More crafting! Less screen time. Less working on days off (I say as I write this over my Holiday break…).\nI can only hope 2026 is half as good as 2025. Here’s to the new year!"
   },
   {
-    "objectID": "blog/posts/nov52025.html",
-    "href": "blog/posts/nov52025.html",
-    "title": "My first two months",
-    "section": "",
-    "text": "I’ve now been teaching both graduate and undergraduate for two full months! I must say, although the imposter syndrome creeps in and I have days where I doubt myself, I am really enjoying my job.\nOne thing I’m really enjoying is making my YouTube tutorials. It helps me prep for my STAT545 lecture, almost acting as a practice run, and allows me to use my video editing and social media experience in a creative way. I’ve heard that my students are also enjoying them, and sharing them with their friends in their labs who are looking to learn about doing research with R! I hope that I can teach STAT545 again so I can reuse my videos next year!\nI am also so impressed with my students this term. They really surprise me everyday (in mostly good ways!). They are so creative, driven, and such a joy to be around. It’s hard to believe this term has only four weeks of classes left before the exam period, and then another group of students will be in my classroom.\nTwo months down and many more (hopefully) to go!"
-  },
-  {
-    "objectID": "educationalleadership/gitworkshop/gitworkshop.html",
-    "href": "educationalleadership/gitworkshop/gitworkshop.html",
-    "title": "Git Workshop",
-    "section": "",
-    "text": "An invited Virtual Skills workshop for graduate students to learn about version control tools starting from the very basics.\nClick here to view the workshop materials"
-  },
-  {
-    "objectID": "educationalleadership/gitworkshop/gitworkshop.html#slides",
-    "href": "educationalleadership/gitworkshop/gitworkshop.html#slides",
-    "title": "Git Workshop",
-    "section": "Slides",
-    "text": "Slides\nLink to Slides\nGitHub Repository"
-  },
-  {
-    "objectID": "educationalleadership/classroomtech/classroomtech.html",
-    "href": "educationalleadership/classroomtech/classroomtech.html",
-    "title": "Classroom Technology Training (UW)",
-    "section": "",
-    "text": "A walk-through of the information and technology that you may need to know as a teaching assistant or instructor for the University of Waterloo Faculty of Mathematics. This video is shown every September to new teaching assistants, lecturers, and faculty across the University.\n\nFilmed by Mike Valente. Written and edited by Grace Tompkins."
-  },
-  {
-    "objectID": "educationalleadership/index.html",
-    "href": "educationalleadership/index.html",
-    "title": "Educational Leadership",
-    "section": "",
-    "text": "Here are some teaching-related projects I’ve been involved with!\n\n\n\n\n\n\n\n\n\n\nProf. Tompkins YouTube Channel\n\n\n\n\n\n\n\n\n\n\n\n\n\nGit Workshop\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT545 Quarto Website\n\n\n\n\n\n\n\n\n\n\n\n\n\nBootstrapping Applet (Grace’s Candy Shop)\n\n\n\n\n\n\n\n\n\n\n\n\n\nClassroom Technology Training (UW)\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "blog/posts/jan212026.html",
     "href": "blog/posts/jan212026.html",
     "title": "(Not) Having It Figured Out in Undergrad",
@@ -173,5 +145,33 @@
     "title": "(Not) Having It Figured Out in Undergrad",
     "section": "My Thoughts on a Master’s Degree",
     "text": "My Thoughts on a Master’s Degree\nThinking about a master’s degree? If you;\n\nhave enough steam to be a student for 1-2 more years,\ndon’t feel like you’re done with learning,\nare curious about research, and\nare okay with the opportunity cost of not working for a year or two\n\nthen a Master’s degree is something to consider. I learned so much and got exposed to so much of a new-to-me discipline (biostatistics) and got a taste of research.\nI also want to break down a few misconceptions about a Master’s degree:\n\nNot every master’s degree is a commitment to a thesis. Many schools have alternatives, including coursework, research paper (mini-thesis), or co-ops.\nYou also don’t need to be an expert in a particular field to get a master’s; that’s what the program is for! I didn’t have any real biostatistics experience prior to my master’s degree. Most of my classmates didn’t have research experience, either.\nA master’s degree won’t “pigeonhole” you to a particular field. I have friends who were trained as biostatisticians and are now working in finance.\nSome Master’s degrees are as short as 8 months, and others can last years.\nNo applicant is perfect, and if you have a period of your life where your grades slipped for personal reasons (i.e., mental/physical illness, trajedies), there is an opportunity to explain this on most applications.\nGraduate school will always be there - you don’t need to go right away. I had classmates who had freshly finished their undergraduate degrees, and those who decided to go back to school later in life.\n\n\nFinal Thoughts\nIf you’ve made it this far, I hope you have a sense of normality on how you are navigating your own academic journey and choices. My path was not very clear or linear - and yours doesn’t have to be either. I’m still figuring it all out!"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "(Not) Having It Figured Out in Undergrad\n\n\n\n\n\n\nReflection\n\n\nCareers\n\n\n\n\n\n\n\n\n\nJanuary 23, 2026\n\n\nGrace Tompkins\n\n\n\n\n\n\n\n\n\n\n\n\nReflecting on 2025 and Plans for 2026\n\n\n\n\n\n\nReflection\n\n\nTeaching\n\n\n\n\n\n\n\n\n\nJanuary 2, 2026\n\n\nGrace Tompkins\n\n\n\n\n\n\n\n\n\n\n\n\nMy first two months\n\n\n\n\n\n\nReflection\n\n\nTeaching\n\n\n\n\n\n\n\n\n\nNovember 5, 2025\n\n\nGrace Tompkins\n\n\n\n\n\n\n\n\n\n\n\n\nI’m a Blogger Now?\n\n\n\n\n\n\nReflection\n\n\nTeaching\n\n\n\n\n\n\n\n\n\nSeptember 17, 2025\n\n\nGrace Tompkins\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "educationalleadership/candyshop/candyshop.html",
+    "href": "educationalleadership/candyshop/candyshop.html",
+    "title": "Bootstrapping Applet (Grace’s Candy Shop)",
+    "section": "",
+    "text": "An RShiny app developed to demonstrate the basics of the sampling and bootstrap distributions at a preliminary level. This app was developed using Google Gemini.\nShiny App: https://grcetmpk.shinyapps.io/bootstrap_dsci100/\nYouTube Video: https://www.youtube.com/watch?v=DVh9moRHKN0&t=1s\nGitHub Repository: https://github.com/grcetmpk/Bootstrap-DSCI100"
+  },
+  {
+    "objectID": "educationalleadership/youtube/youtube.html",
+    "href": "educationalleadership/youtube/youtube.html",
+    "title": "Prof. Tompkins YouTube Channel",
+    "section": "",
+    "text": "A collection of short lectures on various topics in Statistics and Data Science. Check it out on YouTube (@ProfTompkins).\nExample video below:"
+  },
+  {
+    "objectID": "educationalleadership/rladiesworkshopquarto/quartoworkshop.html",
+    "href": "educationalleadership/rladiesworkshopquarto/quartoworkshop.html",
+    "title": "Quarto Webpages Workshop for R-Ladies+",
+    "section": "",
+    "text": "A virtual workshop for R coders to learn about version control tools starting from the very basics. R-Ladies+ aims to support all underrepresented genders of R Coders, including but not limited to cis/trans women, trans men, non-binary, genderqueer, and agender individuals.\nClick here to view the workshop materials"
   }
 ]

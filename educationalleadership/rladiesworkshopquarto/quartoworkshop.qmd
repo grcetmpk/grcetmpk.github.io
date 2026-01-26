@@ -1,0 +1,14 @@
+---
+title: "Quarto Webpages Workshop for R-Ladies+"
+categories:
+image: "quartoworkshop.png"
+href: "https://grcetmpk.github.io/rladies-quartowebpages/"
+---
+
+![](quartoworkshop.png)
+
+</br>
+
+A virtual workshop for R coders to learn about version control tools starting from the very basics. R-Ladies+ aims to support all underrepresented genders of R Coders, including but not limited to cis/trans women, trans men, non-binary, genderqueer, and agender individuals.
+
+[Click here to view the workshop materials](https://grcetmpk.github.io/rladies-quartowebpages/)

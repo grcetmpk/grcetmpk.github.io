@@ -8,6 +8,7 @@ listing:
     contents: 
       - youtube
       - gitworkshop
+      - rladiesworkshopquarto
       - stat545
       - candyshop
       - classroomtech
