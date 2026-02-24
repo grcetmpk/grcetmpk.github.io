@@ -4,6 +4,7 @@ project:
 
 website:
   google-analytics: "G-DYN8ZCNSTZ"
+  cookie-consent: true
   title: "Grace Tompkins"
   page-footer: | 
     *Built with [Quarto](https://quarto.org)*
