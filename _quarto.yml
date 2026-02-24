@@ -3,8 +3,11 @@ project:
   output-dir: docs
 
 website:
-  google-analytics: "G-DYN8ZCNSTZ"
-  cookie-consent: true
+  cookie-consent:
+    google-analytics: "G-DYN8ZCNSTZ"
+    type: express
+    
+    
   title: "Grace Tompkins"
   page-footer: | 
     *Built with [Quarto](https://quarto.org)*
@@ -17,14 +20,14 @@ website:
       - research.qmd
       - blog/index.qmd
       - Requests.qmd
-
-
+      
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
+
 
 
 
