@@ -1,0 +1,45 @@
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+
+<script>
+window.addEventListener("load", function(){
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": { "background": "#23272e", "text": "#ffffff" },
+      "button": { "background": "#375a7f", "text": "#ffffff" }
+    },
+    "type": "info",
+    "position": "bottom-right",
+    "theme": "edgeless",
+    
+    "content": {
+      "message": "We use cookies for website analytics. To see how your data is used, check out the ",
+      "dismiss": "Got it!",
+      "link": "Privacy Policy",
+      "href": "/privacy.html" // Quarto converts .qmd to .html
+    }
+  })
+});
+</script>
+
+<style>
+  /* Styling to ensure it looks like a floating pop-up card */
+  .cc-window.cc-floating {
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2) !important;
+    max-width: 320px !important;
+    padding: 1.5em !important;
+    margin: 20px !important;
+    border-radius: 8px !important;
+    font-family: inherit !important; /* Matches your Quarto font */
+  }
+  
+  /* Make the "Privacy Policy" link stand out */
+  .cc-link {
+    text-decoration: underline !important;
+    opacity: 0.8;
+  }
+  
+  .cc-link:hover {
+    opacity: 1;
+  }
+</style>

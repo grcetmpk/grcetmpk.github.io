@@ -3,9 +3,7 @@ project:
   output-dir: docs
 
 website:
-  cookie-consent:
-    google-analytics: "G-DYN8ZCNSTZ"
-    type: express
+
     
     
   title: "Grace Tompkins"
@@ -27,6 +25,7 @@ format:
       - cosmo
       - brand
     css: styles.css
+    include-in-header: cookie-fix.html
 
 
 
