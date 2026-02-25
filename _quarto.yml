@@ -3,9 +3,6 @@ project:
   output-dir: docs
 
 website:
-
-    
-    
   title: "Grace Tompkins"
   page-footer: | 
     *Built with [Quarto](https://quarto.org)*
@@ -25,7 +22,8 @@ format:
       - cosmo
       - brand
     css: styles.css
-    include-in-header: cookie-fix.html
+    include-in-header: privacypolicy/google-analytics.html
+    include-after-body: privacypolicy/custom-popup.html
 
 
 
