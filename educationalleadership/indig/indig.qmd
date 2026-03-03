@@ -1,0 +1,26 @@
+---
+title: "Indigenizing Statistics and Data Science Education"
+categories:
+image: "indig.jpeg"
+href: "https://www.youtube.com/@proftompkins"
+---
+
+![](indig.jpeg)
+
+I'm currently working on a repository for ***Indigenizing Statistics and Data Science Education*** (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate Indigenous topics into their classrooms in a way that is **organic** and **appropriate.**
+
+We will be providing tools that will allow educators to confidently and appropriately do the following:
+
+1.  Incorporate Indigenous knowledge into their current curricula
+
+2.  Facilitate discussions on the impact of data on Indigenous communities
+
+3.  Appropriately use Indigenous data in classroom examples
+
+Modules are create for various statistical topics, so that they can be used across a variety of courses and levels.
+
+You can check out the current version here: <https://grcetmpk.github.io/indigenizing-stat-ed/>. Please note that the contents are still being developed.
+
+------------------------------------------------------------------------
+
+Interested in collaborating on this project? Please reach out at grace\<-at-\>stat.ubc.ca!
