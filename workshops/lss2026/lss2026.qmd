@@ -1,0 +1,14 @@
+---
+title: "Life Science Symposium 2026: Data Visualization"
+categories:
+image: "lss2026.png"
+href: "https://grcetmpk.github.io/lss-2026-dataviz/"
+---
+
+</br>
+
+![](lss2026.png){fig-align="center"}
+
+An invited in-person workshop for students in life sciences or related disciplines.
+
+The workshop materials are available here: \[LINK\]

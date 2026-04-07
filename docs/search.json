@@ -7,25 +7,18 @@
     "text": "A re-vamp of the STAT545 course website at UBC, now using Quarto!\nWebsite: https://ubc-stat.github.io/stat545\nGitHub Repository: https://github.com/UBC-STAT/stat545"
   },
   {
-    "objectID": "educationalleadership/rladiesworkshopquarto/quartoworkshop.html",
-    "href": "educationalleadership/rladiesworkshopquarto/quartoworkshop.html",
-    "title": "Quarto Webpages Workshop for R-Ladies+",
+    "objectID": "educationalleadership/index.html",
+    "href": "educationalleadership/index.html",
+    "title": "Educational Leadership",
     "section": "",
-    "text": "A virtual workshop for R coders to learn about version control tools starting from the very basics. R-Ladies+ aims to support all underrepresented genders of R Coders, including but not limited to cis/trans women, trans men, non-binary, genderqueer, and agender individuals.\nClick here to view the workshop materials"
+    "text": "Here are some teaching-related projects I’ve been involved with!\n\n\n\n\n\n\n\n\n\n\nProf. Tompkins YouTube Channel\n\n\n\n\n\n\n\n\n\n\n\n\nIndigenizing Statistics and Data Science Education\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT545 Quarto Website\n\n\n\n\n\n\n\n\n\n\n\n\nBootstrapping Applet (Grace’s Candy Shop)\n\n\n\n\n\n\n\n\n\n\n\n\nClassroom Technology Training (UW)\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "educationalleadership/youtube/youtube.html",
-    "href": "educationalleadership/youtube/youtube.html",
-    "title": "Prof. Tompkins YouTube Channel",
+    "objectID": "educationalleadership/classroomtech/classroomtech.html",
+    "href": "educationalleadership/classroomtech/classroomtech.html",
+    "title": "Classroom Technology Training (UW)",
     "section": "",
-    "text": "A collection of short lectures on various topics in Statistics and Data Science. Check it out on YouTube (@ProfTompkins).\nExample video below:"
-  },
-  {
-    "objectID": "educationalleadership/candyshop/candyshop.html",
-    "href": "educationalleadership/candyshop/candyshop.html",
-    "title": "Bootstrapping Applet (Grace’s Candy Shop)",
-    "section": "",
-    "text": "An RShiny app developed to demonstrate the basics of the sampling and bootstrap distributions at a preliminary level. This app was developed using Google Gemini.\nShiny App: https://grcetmpk.shinyapps.io/bootstrap_dsci100/\nYouTube Video: https://www.youtube.com/watch?v=DVh9moRHKN0&t=1s\nGitHub Repository: https://github.com/grcetmpk/Bootstrap-DSCI100"
+    "text": "A walk-through of the information and technology that you may need to know as a teaching assistant or instructor for the University of Waterloo Faculty of Mathematics. This video is shown every September to new teaching assistants, lecturers, and faculty across the University.\n\nFilmed by Mike Valente. Written and edited by Grace Tompkins."
   },
   {
     "objectID": "privacypolicy/privacy.html",
@@ -84,6 +77,20 @@
     "text": "For any of the following requests, please email me at grace &lt;-at&gt; stat.ubc.ca!\n\n🌿 Mentoring\nI am very eager to provide mentoring to undergraduate and graduate students! This will provide students with an opportunity to form meaningful connections and get advice on majors/minors, graduate school, careers, and more.\nI am happy to meet to discuss non-course related topics. Please reach out and we can set a time to meet either in person or over Zoom.\n\n\n✉️ Invitations for Conference, Seminars, Workshops, and Talks\nI would love to give a talk on any of my projects or provide a workshop on R coding, GitHub, or any other statistics or data science topic that is relevant to my work.\n\n\n👩‍🔬 Supervising\nI am a Teaching Stream faculty member, so I am not currently supervising students. Please reach out to other Professors in the department who are not indicated as being “Teaching Stream”.\n\n\n🗂️ Graduate Academic Assistantships (GAAs - Masters, and PhD students only)\nI am not actively looking for students, but if you’d like to be involved in my future Educational Leadership (teaching-related) projects, feel free to reach out. If a project come up where a graduate student could be hired, I will let you know!\n\n\n📝 Reference Requests\nI am happy to provide reference letters for Graduate programs, internships, and employment for students that I know well. This includes:\n\nCurrent and former students I’ve taught more than one time\nCurrent and former students I’ve taught only once, but were active in class and attended office hours\nCurrent and former students I’ve met through committees and can speak to their out-of-class activities\n\nMy Reference Letter Policy:\n\nI can write up to 5 references per student per term. These include reference letters for graduate schools, jobs, and scholarships.\nI need at least 3 weeks to write a reference.\nI need to agree to every reference request BEFORE you write my name down as a reference. Please do not assume!\nYou must provide me with a list of reference letters you need, and details on each application, including the due date, where I submit, what the application is for, and any other information that I may need to write your reference letter. Please compile this into a clear email or document that I can reference.\n\nFor example, if you are applying to a graduate program I highly recommend sending:\n\ninformation on where I submit to (online? via email?)\na link to the program/scholarship you are applying to, along with a brief description about the program\ndetails about why you are applying to a particular school/program\nyour career goals or future plans\na CV\ntranscripts\nany other information you may think is relevant."
   },
   {
+    "objectID": "workshops/lss2026/lss2026.html",
+    "href": "workshops/lss2026/lss2026.html",
+    "title": "Life Science Symposium 2026: Data Visualization",
+    "section": "",
+    "text": "An invited in-person workshop for students in life sciences or related disciplines.\nThe workshop materials are available here: [LINK]"
+  },
+  {
+    "objectID": "workshops/index.html",
+    "href": "workshops/index.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Here are some teaching-related projects I’ve been involved with!\n\n\n\n\n\n\n\n\n\n\nGit Workshop\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Webpages Workshop for R-Ladies+\n\n\n\n\n\n\n\n\n\n\n\n\nLife Science Symposium 2026: Data Visualization\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -110,6 +117,20 @@
     "title": "Teaching",
     "section": "Past Courses",
     "text": "Past Courses\n\nSTAT 545 A/B: Exploratory Data Analysis (Fall 2025, University of British Columbia)\nDSCI 100: Introduction to Data Science (Fall 2025, University of British Columbia)\nSTAT 337: Introduction to Biostatistics (Fall 2023, University of Waterloo)"
+  },
+  {
+    "objectID": "workshops/gitworkshop/gitworkshop.html",
+    "href": "workshops/gitworkshop/gitworkshop.html",
+    "title": "Git Workshop",
+    "section": "",
+    "text": "An invited Virtual Skills workshop for graduate students to learn about version control tools starting from the very basics. 52 people registered.\nClick here to view the workshop materials"
+  },
+  {
+    "objectID": "workshops/rladiesworkshopquarto/quartoworkshop.html",
+    "href": "workshops/rladiesworkshopquarto/quartoworkshop.html",
+    "title": "Quarto Webpages Workshop for R-Ladies+",
+    "section": "",
+    "text": "A virtual workshop for R coders to learn about version control tools starting from the very basics. R-Ladies+ aims to support all underrepresented genders of R Coders, including but not limited to cis/trans women, trans men, non-binary, genderqueer, and agender individuals.\nClick here to view the workshop materials"
   },
   {
     "objectID": "research.html",
@@ -182,25 +203,18 @@
     "text": "(Not) Having It Figured Out in Undergrad\n\n\n\nReflection\n\nCareers\n\n\n\n\n\n\n\n\n\nJanuary 23, 2026\n\n\nGrace Tompkins\n\n\n\n\n\n\n\n\n\n\n\n\nReflecting on 2025 and Plans for 2026\n\n\n\nReflection\n\nTeaching\n\n\n\n\n\n\n\n\n\nJanuary 2, 2026\n\n\nGrace Tompkins\n\n\n\n\n\n\n\n\n\n\n\n\nMy first two months\n\n\n\nReflection\n\nTeaching\n\n\n\n\n\n\n\n\n\nNovember 5, 2025\n\n\nGrace Tompkins\n\n\n\n\n\n\n\n\n\n\n\n\nI’m a Blogger Now?\n\n\n\nReflection\n\nTeaching\n\n\n\n\n\n\n\n\n\nSeptember 17, 2025\n\n\nGrace Tompkins\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "educationalleadership/gitworkshop/gitworkshop.html",
-    "href": "educationalleadership/gitworkshop/gitworkshop.html",
-    "title": "Git Workshop",
+    "objectID": "educationalleadership/candyshop/candyshop.html",
+    "href": "educationalleadership/candyshop/candyshop.html",
+    "title": "Bootstrapping Applet (Grace’s Candy Shop)",
     "section": "",
-    "text": "An invited Virtual Skills workshop for graduate students to learn about version control tools starting from the very basics. 52 people registered.\nClick here to view the workshop materials"
+    "text": "An RShiny app developed to demonstrate the basics of the sampling and bootstrap distributions at a preliminary level. This app was developed using Google Gemini.\nShiny App: https://grcetmpk.shinyapps.io/bootstrap_dsci100/\nYouTube Video: https://www.youtube.com/watch?v=DVh9moRHKN0&t=1s\nGitHub Repository: https://github.com/grcetmpk/Bootstrap-DSCI100"
   },
   {
-    "objectID": "educationalleadership/classroomtech/classroomtech.html",
-    "href": "educationalleadership/classroomtech/classroomtech.html",
-    "title": "Classroom Technology Training (UW)",
+    "objectID": "educationalleadership/youtube/youtube.html",
+    "href": "educationalleadership/youtube/youtube.html",
+    "title": "Prof. Tompkins YouTube Channel",
     "section": "",
-    "text": "A walk-through of the information and technology that you may need to know as a teaching assistant or instructor for the University of Waterloo Faculty of Mathematics. This video is shown every September to new teaching assistants, lecturers, and faculty across the University.\n\nFilmed by Mike Valente. Written and edited by Grace Tompkins."
-  },
-  {
-    "objectID": "educationalleadership/index.html",
-    "href": "educationalleadership/index.html",
-    "title": "Educational Leadership",
-    "section": "",
-    "text": "Here are some teaching-related projects I’ve been involved with!\n\n\n\n\n\n\n\n\n\n\nProf. Tompkins YouTube Channel\n\n\n\n\n\n\n\n\n\n\n\n\nIndigenizing Statistics and Data Science Education\n\n\n\n\n\n\n\n\n\n\n\n\nGit Workshop\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Webpages Workshop for R-Ladies+\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT545 Quarto Website\n\n\n\n\n\n\n\n\n\n\n\n\nBootstrapping Applet (Grace’s Candy Shop)\n\n\n\n\n\n\n\n\n\n\n\n\nClassroom Technology Training (UW)\n\n\n\n\n\nNo matching items"
+    "text": "A collection of short lectures on various topics in Statistics and Data Science. Check it out on YouTube (@ProfTompkins).\nExample video below:"
   },
   {
     "objectID": "educationalleadership/indig/indig.html",
