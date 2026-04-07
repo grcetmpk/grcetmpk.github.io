@@ -13,6 +13,7 @@ website:
         text: Home
       - teaching.qmd
       - educationalleadership/index.qmd
+      - workshops/index.qmd
       - research.qmd
       - blog/index.qmd
       - Requests.qmd
