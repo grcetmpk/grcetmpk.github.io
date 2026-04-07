@@ -14,7 +14,7 @@ listing:
     sort: false
 ---
 
-Here are some teaching-related projects I've been involved with! 
+Here are a list of workshops I've hosted (with their related materials).
 
 ::: {#ehr}
 :::
