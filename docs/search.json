@@ -222,5 +222,19 @@
     "title": "Indigenizing Statistics and Data Science Education",
     "section": "",
     "text": "I’m currently working on a repository for Indigenizing Statistics and Data Science Education (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate Indigenous topics into their classrooms in a way that is organic and appropriate.\nWe will be providing tools that will allow educators to confidently and appropriately do the following:\n\nIncorporate Indigenous knowledge into their current curricula\nFacilitate discussions on the impact of data on Indigenous communities\nAppropriately use Indigenous data in classroom examples\n\nModules are create for various statistical topics, so that they can be used across a variety of courses and levels.\nYou can check out the current version here: https://grcetmpk.github.io/indigenizing-stat-ed/. Please note that the contents are still being developed.\n\nInterested in collaborating on this project? Please reach out at grace&lt;-at-&gt;stat.ubc.ca!"
+  },
+  {
+    "objectID": "justforfun/dicegame/candyshop.html",
+    "href": "justforfun/dicegame/candyshop.html",
+    "title": "Dice Game Calculator",
+    "section": "",
+    "text": "An RShiny app developed to score and view stats of a dice game that my family plays. We call it “the dice game”. Origins unknown. Rules can be found in the app!\nMostly vibe-coded with Claude.\nShiny App: https://grcetmpk.shinyapps.io/dicegamecalculator/\nGitHub Repository: https://github.com/grcetmpk/dicegamecalculator"
+  },
+  {
+    "objectID": "justforfun/index.html",
+    "href": "justforfun/index.html",
+    "title": "Educational Leadership",
+    "section": "",
+    "text": "Here are some teaching-related projects I’ve been involved with!\n\n\n\n\nNo matching items"
   }
 ]

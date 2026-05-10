@@ -1,0 +1,16 @@
+---
+title: "Dice Game Calculator"
+categories: 
+image: "app.png"
+href: "https://grcetmpk.shinyapps.io/dicegamecalculator/"
+---
+
+![](app.png){fig-align="center"}
+
+An RShiny app developed to score and view stats of a dice game that my family plays. We call it "the dice game". Origins unknown. Rules can be found in the app! 
+
+Mostly vibe-coded with Claude. 
+
+Shiny App: <https://grcetmpk.shinyapps.io/dicegamecalculator/>
+
+GitHub Repository: <https://github.com/grcetmpk/dicegamecalculator>
