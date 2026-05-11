@@ -1,24 +1,18 @@
 ---
-title: "Educational Leadership"
+title: "Just for Fun"
 listing:
   - id: ehr
     max-description-length: 500
     image-height: 150px
     fields: [image, title]
     contents: 
-      - youtube
-      - indig
-      - gitworkshop
-      - rladiesworkshopquarto
-      - stat545
-      - candyshop
-      - classroomtech
+      - dicegame
     type: grid
     grid-item-border: true
     sort: false
 ---
 
-Here are some teaching-related projects I've been involved with! 
+Here are some random side projects:
 
 ::: {#ehr}
 :::

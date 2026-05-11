@@ -15,7 +15,7 @@ website:
       - educationalleadership/index.qmd
       - workshops/index.qmd
       - research.qmd
-      - justoforfun/index.qmd
+      - justforfun/index.qmd
       - blog/index.qmd
       - Requests.qmd
       

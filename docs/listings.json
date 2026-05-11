@@ -10,6 +10,12 @@
     ]
   },
   {
+    "listing": "/justforfun/index.html",
+    "items": [
+      "/justforfun/dicegame/dicegame.html"
+    ]
+  },
+  {
     "listing": "/workshops/index.html",
     "items": [
       "/workshops/gitworkshop/gitworkshop.html",
@@ -25,9 +31,5 @@
       "/blog/posts/nov52025.html",
       "/blog/posts/sept172025.html"
     ]
-  },
-  {
-    "listing": "/justforfun/index.html",
-    "items": []
   }
 ]

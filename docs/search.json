@@ -77,6 +77,13 @@
     "text": "For any of the following requests, please email me at grace &lt;-at&gt; stat.ubc.ca!\n\n🌿 Mentoring\nI am very eager to provide mentoring to undergraduate and graduate students! This will provide students with an opportunity to form meaningful connections and get advice on majors/minors, graduate school, careers, and more.\nI am happy to meet to discuss non-course related topics. Please reach out and we can set a time to meet either in person or over Zoom.\n\n\n✉️ Invitations for Conference, Seminars, Workshops, and Talks\nI would love to give a talk on any of my projects or provide a workshop on R coding, GitHub, or any other statistics or data science topic that is relevant to my work.\n\n\n👩‍🔬 Supervising\nI am a Teaching Stream faculty member, so I am not currently supervising students. Please reach out to other Professors in the department who are not indicated as being “Teaching Stream”.\n\n\n🗂️ Graduate Academic Assistantships (GAAs - Masters, and PhD students only)\nI am not actively looking for students, but if you’d like to be involved in my future Educational Leadership (teaching-related) projects, feel free to reach out. If a project come up where a graduate student could be hired, I will let you know!\n\n\n📝 Reference Requests\nI am happy to provide reference letters for Graduate programs, internships, and employment for students that I know well. This includes:\n\nCurrent and former students I’ve taught more than one time\nCurrent and former students I’ve taught only once, but were active in class and attended office hours\nCurrent and former students I’ve met through committees and can speak to their out-of-class activities\n\nMy Reference Letter Policy:\n\nI can write up to 5 references per student per term. These include reference letters for graduate schools, jobs, and scholarships.\nI need at least 3 weeks to write a reference.\nI need to agree to every reference request BEFORE you write my name down as a reference. Please do not assume!\nYou must provide me with a list of reference letters you need, and details on each application, including the due date, where I submit, what the application is for, and any other information that I may need to write your reference letter. Please compile this into a clear email or document that I can reference.\n\nFor example, if you are applying to a graduate program I highly recommend sending:\n\ninformation on where I submit to (online? via email?)\na link to the program/scholarship you are applying to, along with a brief description about the program\ndetails about why you are applying to a particular school/program\nyour career goals or future plans\na CV\ntranscripts\nany other information you may think is relevant."
   },
   {
+    "objectID": "justforfun/index.html",
+    "href": "justforfun/index.html",
+    "title": "Just for Fun",
+    "section": "",
+    "text": "Here are some random side projects:\n\n\n\n\n\n\n\n\n\n\nDice Game Calculator\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "workshops/lss2026/lss2026.html",
     "href": "workshops/lss2026/lss2026.html",
     "title": "Life Science Symposium 2026: Data Visualization",
@@ -102,21 +109,21 @@
     "href": "teaching.html#current-courses",
     "title": "Teaching",
     "section": "Current Courses",
-    "text": "Current Courses\n\nDSCI 100: Introduction to Data Science (Winter 2026, University of British Columbia)\nSTAT 450: Case Studies in Statistics (Winter 2026, University of British Columbia)"
+    "text": "Current Courses\n\nSTAT 302: Introduction to Probability (Spring Term 1 2026, University of British Columbia)"
   },
   {
     "objectID": "teaching.html#upcoming-courses",
     "href": "teaching.html#upcoming-courses",
     "title": "Teaching",
     "section": "Upcoming Courses:",
-    "text": "Upcoming Courses:\n\nSTAT 302: Introduction to Probability (Spring Term 1 2026, University of British Columbia)\nSTAT 302: Introduction to Probability (Fall 2026, University of British Columbia)\nSTAT 545 A/B: Exploratory Data Analysis (Fall 2026, University of British Columbia)"
+    "text": "Upcoming Courses:\n\nSTAT 302: Introduction to Probability (Fall 2026, University of British Columbia)\nSTAT 545 A/B: Exploratory Data Analysis (Fall 2026, University of British Columbia)"
   },
   {
     "objectID": "teaching.html#past-courses",
     "href": "teaching.html#past-courses",
     "title": "Teaching",
     "section": "Past Courses",
-    "text": "Past Courses\n\nSTAT 545 A/B: Exploratory Data Analysis (Fall 2025, University of British Columbia)\nDSCI 100: Introduction to Data Science (Fall 2025, University of British Columbia)\nSTAT 337: Introduction to Biostatistics (Fall 2023, University of Waterloo)"
+    "text": "Past Courses\n\nDSCI 100: Introduction to Data Science (Winter 2026, University of British Columbia)\nSTAT 450: Case Studies in Statistics (Winter 2026, University of British Columbia)\nSTAT 545 A/B: Exploratory Data Analysis (Fall 2025, University of British Columbia)\nDSCI 100: Introduction to Data Science (Fall 2025, University of British Columbia)\nSTAT 337: Introduction to Biostatistics (Fall 2023, University of Waterloo)"
   },
   {
     "objectID": "workshops/gitworkshop/gitworkshop.html",
@@ -159,6 +166,13 @@
     "title": "Research",
     "section": "Selected Talks",
     "text": "Selected Talks\n\nGrace Tompkins, Joel Dubin, Michael Wallace. Weight Trimming for Flexible Inverse Probability of Treatment and Intensity Weighting. (2024). International Society for Clinical Biostatistics Conference, Thessaloniki, Greece.\nGrace Tompkins, Joel Dubin, Michael Wallace. The Impacts of Noninformative Censoring in the Analysis of Irregular Longitudinal Data with Informative Observation Times and Non-randomized Treatment Assignments. (2023). Eastern North American Region International Biometric Society Conference, Nashville, USA.\nGrace Tompkins, Joel Dubin, Michael Wallace. Adjusting for Informative Observation Times and Non-randomized Exposures via Weighting Methods in Irregular Longitudinal Data Analysis. (2023). American Statistical Association Conference on Statistical Practice, San Francisco, USA.\nGrace Tompkins, Joel A Dubin, Michael Wallace. Accounting for Informative Observation Times and Non-randomized Exposures in Irregular Longitudinal Data Analysis via Weighting Methods. (2022). Waterloo Student Conference in Statistics, Actuarial Sciences, and Finance, Waterloo Canada.\nGrace Tompkins, Michael Wallace, Xavier Loffree. How Do I Choose? Personalized Decision-Making in Multiple Attribute Settings. (2022). American Statistical Association Conference on Statistical Practice, Virtual (USA).\nGrace Tompkins, Derrick G. Lee. Pre-pregnancy Polycyclic Aromatic Hydrocarbons and its Effects on Breast Cancer Development. (2018). Science Atlantic: Mathematics, Statistics, and Computer Science Conference, Moncton, Canada."
+  },
+  {
+    "objectID": "justforfun/dicegame/dicegame.html",
+    "href": "justforfun/dicegame/dicegame.html",
+    "title": "Dice Game Calculator",
+    "section": "",
+    "text": "An RShiny app developed to score and view stats of a dice game that my family plays. We call it “the dice game”. Origins unknown. Rules can be found in the app!\nMostly vibe-coded with Claude.\nShiny App: https://grcetmpk.shinyapps.io/dicegamecalculator/\nGitHub Repository: https://github.com/grcetmpk/dicegamecalculator"
   },
   {
     "objectID": "awards.html",
@@ -207,7 +221,7 @@
     "href": "educationalleadership/candyshop/candyshop.html",
     "title": "Bootstrapping Applet (Grace’s Candy Shop)",
     "section": "",
-    "text": "An RShiny app developed to demonstrate the basics of the sampling and bootstrap distributions at a preliminary level. This app was developed using Google Gemini.\nShiny App: https://grcetmpk.shinyapps.io/bootstrap_dsci100/\nYouTube Video: https://www.youtube.com/watch?v=DVh9moRHKN0&t=1s\nGitHub Repository: https://github.com/grcetmpk/Bootstrap-DSCI100"
+    "text": "An RShiny app developed to demonstrate the basics of the sampling and bootstrap distributions at a preliminary level. This app was developed using Google Gemini. This app is currently being redeveloped with the help of a Graduate Academic Assistant and the Flexible Learning Group.\nShiny App: https://grcetmpk.shinyapps.io/bootstrap_dsci100/\nYouTube Video: https://www.youtube.com/watch?v=DVh9moRHKN0&t=1s\nGitHub Repository: https://github.com/grcetmpk/Bootstrap-DSCI100"
   },
   {
     "objectID": "educationalleadership/youtube/youtube.html",
@@ -222,19 +236,5 @@
     "title": "Indigenizing Statistics and Data Science Education",
     "section": "",
     "text": "I’m currently working on a repository for Indigenizing Statistics and Data Science Education (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate Indigenous topics into their classrooms in a way that is organic and appropriate.\nWe will be providing tools that will allow educators to confidently and appropriately do the following:\n\nIncorporate Indigenous knowledge into their current curricula\nFacilitate discussions on the impact of data on Indigenous communities\nAppropriately use Indigenous data in classroom examples\n\nModules are create for various statistical topics, so that they can be used across a variety of courses and levels.\nYou can check out the current version here: https://grcetmpk.github.io/indigenizing-stat-ed/. Please note that the contents are still being developed.\n\nInterested in collaborating on this project? Please reach out at grace&lt;-at-&gt;stat.ubc.ca!"
-  },
-  {
-    "objectID": "justforfun/dicegame/candyshop.html",
-    "href": "justforfun/dicegame/candyshop.html",
-    "title": "Dice Game Calculator",
-    "section": "",
-    "text": "An RShiny app developed to score and view stats of a dice game that my family plays. We call it “the dice game”. Origins unknown. Rules can be found in the app!\nMostly vibe-coded with Claude.\nShiny App: https://grcetmpk.shinyapps.io/dicegamecalculator/\nGitHub Repository: https://github.com/grcetmpk/dicegamecalculator"
-  },
-  {
-    "objectID": "justforfun/index.html",
-    "href": "justforfun/index.html",
-    "title": "Educational Leadership",
-    "section": "",
-    "text": "Here are some teaching-related projects I’ve been involved with!\n\n\n\n\nNo matching items"
   }
 ]
