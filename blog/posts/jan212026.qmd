@@ -9,7 +9,7 @@ categories:
 image: "images/choices.png"
 ---
 
-### The Pressure to Choose
+## The Pressure to Choose
 
 I've had so many conversations with students recently about careers, choosing a major, and going to graduate school. A lot of students are feeling internal and external pressures to have their entire careers and lives figured out from the moment they step foot on campus.
 
@@ -19,7 +19,7 @@ The truth is that I didn't have anything figured out until the 11th hour of each
 
 It's tough to not have it figured out when everything you see on LinkedIn appears to be some sort of linear progress toward prestigious careers and acceptance letters from schools and employers. I'm writing this to tell you that the most informative parts of my academic journey were ones that I tried and failed.
 
-### My Undergraduate Experience
+## My Undergraduate Experience
 
 The only things I knew when I started university were:
 
@@ -67,6 +67,6 @@ I also want to break down a few misconceptions about a Master's degree:
 
 -   Graduate school will always be there - you don't need to go right away. I had classmates who had freshly finished their undergraduate degrees, and those who decided to go back to school later in life.
 
-### Final Thoughts
+## Final Thoughts
 
 If you've made it this far, I hope you have a sense of normality on how you are navigating your own academic journey and choices. My path was not very clear or linear - and yours doesn't have to be either. I'm still figuring it all out!
