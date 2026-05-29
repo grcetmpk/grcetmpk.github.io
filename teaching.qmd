@@ -2,12 +2,33 @@
 title: "Teaching"
 ---
 
-*I strive to provide a safe, accessible, and fun space for all students to learn statistics.*
+## Teaching Style
+
+I strive to provide a safe, accessible, and fun space for all students to learn statistics and data science.
+
+I try my best to make lectures engaging by using relevant real-world examples. You will find me bringing a stack of Pokemon cards to lecture to demonstrate bootstrapping, or scrolling through Instagram explore pages to discuss clustering.
+
+My lecture styles can vary based on the type of course. When teaching courses where we emphasize coding, I create Quarto slides. With these, students and I can code live in class directly in the slides! No need to download any software (or type code in a Word document). For more math-heavy courses, I annotate PDF slides on my iPad and provide students with both blank and annotated versions of the notes, where possible.
+
+I love working through problems from start to finish in class, and providing students the chance to work on problems individually or in small groups. My goal is to create a strong sense of community within the classroom, so students feel confident and supported by not only me, but also their peers. There is no shame in giving an incorrect answer in class. I see "wrong answers" as an important point of discussion.
+
+If this sounds like your type of course, you can see my teaching schedule below.
+
+## Teaching Evaluations
+
+For transparency, here is a summary of student evaluations of teaching effectiveness scores (mean of Interpolated Median (IM) for instructor-related questions.) All scores are out of 5.
+
+| Term                  | Course    | Responses/Class Size | Mean Score |
+|-----------------------|-----------|----------------------|------------|
+| 2025 - 2026 Winter 2  | STAT 450  | 11/26                | 4.90       |
+|                       | DSCI 100  | 81/169               | 4.80       |
+| 2025 - 2026 Winter 1  | DSCI 100  | 76/184               | 4.73       |
+|                       | STAT 545A | 36/80                | 4.90       |
+|                       | STAT 545B | 30/65                | 4.97       |
 
 ## Current Courses
 
--   [STAT 302:](https://ubc-stat.github.io/stat-302/) *Introduction to Probability* (Spring Term 1 2026, University of British Columbia)
-
+-   [STAT 302:](https://ubc-stat.github.io/stat-302/) *Introduction to Probability* (Summer Term 1 2026, University of British Columbia)
 
 ## Upcoming Courses:
 

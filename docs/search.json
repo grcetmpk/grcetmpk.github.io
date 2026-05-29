@@ -11,7 +11,7 @@
     "href": "educationalleadership/index.html",
     "title": "Educational Leadership",
     "section": "",
-    "text": "Here are some teaching-related projects I’ve been involved with!\n\n\n\n\n\n\n\n\n\n\nProf. Tompkins YouTube Channel\n\n\n\n\n\n\n\n\n\n\n\n\nIndigenizing Statistics and Data Science Education\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT545 Quarto Website\n\n\n\n\n\n\n\n\n\n\n\n\nBootstrapping Applet (Grace’s Candy Shop)\n\n\n\n\n\n\n\n\n\n\n\n\nClassroom Technology Training (UW)\n\n\n\n\n\nNo matching items"
+    "text": "Here are some teaching-related projects I’ve been involved with!\n\n\n\n\n\n\n\n\n\n\nProf. Tompkins YouTube Channel\n\n\n\n\n\n\n\n\n\n\n\n\nIndigenizing Statistics and Data Science Education\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT545 Quarto Website\n\n\n\n\n\n\n\n\n\n\n\n\nBootstrapping Applet (Carrots)\n\n\n\n\n\n\n\n\n\n\n\n\nClassroom Technology Training (UW)\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "educationalleadership/classroomtech/classroomtech.html",
@@ -74,7 +74,7 @@
     "href": "blog/posts/jan212026.html#my-thoughts-on-a-masters-degree",
     "title": "(Not) Having It Figured Out in Undergrad",
     "section": "My Thoughts on a Master’s Degree",
-    "text": "My Thoughts on a Master’s Degree\nThinking about a master’s degree? If you;\n\nhave enough steam to be a student for 1-2 more years,\ndon’t feel like you’re done with learning,\nare curious about research, and\nare okay with the opportunity cost of not working for a year or two\n\nthen a Master’s degree is something to consider. I learned so much and got exposed to so much of a new-to-me discipline (biostatistics) and got a taste of research.\nI also want to break down a few misconceptions about a Master’s degree:\n\nNot every master’s degree is a commitment to a thesis. Many schools have alternatives, including coursework, research paper (mini-thesis), or co-ops.\nYou also don’t need to be an expert in a particular field to get a master’s; that’s what the program is for! I didn’t have any real biostatistics experience prior to my master’s degree. Most of my classmates didn’t have research experience, either.\nA master’s degree won’t “pigeonhole” you to a particular field. I have friends who were trained as biostatisticians and are now working in finance.\nSome Master’s degrees are as short as 8 months, and others can last years.\nNo applicant is perfect, and if you have a period of your life where your grades slipped for personal reasons (i.e., mental/physical illness, trajedies), there is an opportunity to explain this on most applications.\nGraduate school will always be there - you don’t need to go right away. I had classmates who had freshly finished their undergraduate degrees, and those who decided to go back to school later in life."
+    "text": "My Thoughts on a Master’s Degree\nThinking about a master’s degree? If you;\n\nhave enough steam to be a student for 1-2 more years,\ndon’t feel like you’re done with learning,\nare curious about research, and\nare okay with the opportunity cost of not working for a year or two\n\nthen a Master’s degree is something to consider. I learned so much and got exposed to so much of a new-to-me discipline (biostatistics) and got a taste of research.\nI also want to break down a few misconceptions about a Master’s degree:\n\nNot every master’s degree is a commitment to a thesis. Many schools have alternatives, including coursework, research paper (mini-thesis), or co-ops.\nYou also don’t need to be an expert in a particular field to get a master’s; that’s what the program is for! I didn’t have any real biostatistics experience prior to my master’s degree. Most of my classmates didn’t have research experience, either.\nA master’s degree won’t “pigeonhole” you to a particular field. I have friends who were trained as biostatisticians and are now working in finance.\nSome Master’s degrees are as short as 8 months, and others can last years.\nNo applicant is perfect, and if you have a period of your life where your grades slipped for personal reasons (i.e., mental/physical illness, tragedies), there is an opportunity to explain this on most applications.\nGraduate school will always be there - you don’t need to go right away. I had classmates who had freshly finished their undergraduate degrees, and those who decided to go back to school later in life."
   },
   {
     "objectID": "blog/posts/jan212026.html#final-thoughts",
@@ -158,7 +158,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I strive to provide a safe, accessible, and fun space for all students to learn statistics."
+    "text": "I strive to provide a safe, accessible, and fun space for all students to learn statistics and data science.\nI try my best to make lectures engaging by using relevant real-world examples. You will find me bringing a stack of Pokemon cards to lecture to demonstrate bootstrapping, or scrolling through Instagram explore pages to discuss clustering.\nMy lecture styles can vary based on the type of course. When teaching courses where we emphasize coding, I create Quarto slides. With these, students and I can code live in class directly in the slides! No need to download any software (or type code in a Word document). For more math-heavy courses, I annotate PDF slides on my iPad and provide students with both blank and annotated versions of the notes, where possible.\nI love working through problems from start to finish in class, and providing students the chance to work on problems individually or in small groups. My goal is to create a strong sense of community within the classroom, so students feel confident and supported by not only me, but also their peers. There is no shame in giving an incorrect answer in class. I see “wrong answers” as an important point of discussion.\nIf this sounds like your type of course, you can see my teaching schedule below."
   },
   {
     "objectID": "teaching.html#current-courses",
@@ -247,9 +247,9 @@
   {
     "objectID": "educationalleadership/candyshop/candyshop.html",
     "href": "educationalleadership/candyshop/candyshop.html",
-    "title": "Bootstrapping Applet (Grace’s Candy Shop)",
+    "title": "Bootstrapping Applet (Carrots)",
     "section": "",
-    "text": "An RShiny app developed to demonstrate the basics of the sampling and bootstrap distributions at a preliminary level. This app was developed using Google Gemini. This app is currently being redeveloped with the help of a Graduate Academic Assistant and the Flexible Learning Group.\nShiny App: https://grcetmpk.shinyapps.io/bootstrap_dsci100/\nYouTube Video: https://www.youtube.com/watch?v=DVh9moRHKN0&t=1s\nGitHub Repository: https://github.com/grcetmpk/Bootstrap-DSCI100"
+    "text": "An RShiny app developed to demonstrate the basics of the sampling and bootstrap distributions at a preliminary level. This app was developed using Generative AI tools. This app is currently being redeveloped with the help of a Graduate Academic Assistant and the Flexible Learning Group.\nShiny App: https://grcetmpk.shinyapps.io/bootstrap_dsci100/\nGitHub Repository: https://github.com/grcetmpk/Bootstrapping-applet"
   },
   {
     "objectID": "educationalleadership/youtube/youtube.html",
@@ -264,5 +264,19 @@
     "title": "Indigenizing Statistics and Data Science Education",
     "section": "",
     "text": "I’m currently working on a repository for Indigenizing Statistics and Data Science Education (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate Indigenous topics into their classrooms in a way that is organic and appropriate.\nWe will be providing tools that will allow educators to confidently and appropriately do the following:\n\nIncorporate Indigenous knowledge into their current curricula\nFacilitate discussions on the impact of data on Indigenous communities\nAppropriately use Indigenous data in classroom examples\n\nModules are create for various statistical topics, so that they can be used across a variety of courses and levels.\nYou can check out the current version here: https://grcetmpk.github.io/indigenizing-stat-ed/. Please note that the contents are still being developed.\n\nInterested in collaborating on this project? Please reach out at grace&lt;-at-&gt;stat.ubc.ca!"
+  },
+  {
+    "objectID": "teaching.html#teaching-style",
+    "href": "teaching.html#teaching-style",
+    "title": "Teaching",
+    "section": "",
+    "text": "I strive to provide a safe, accessible, and fun space for all students to learn statistics and data science.\nI try my best to make lectures engaging by using relevant real-world examples. You will find me bringing a stack of Pokemon cards to lecture to demonstrate bootstrapping, or scrolling through Instagram explore pages to discuss clustering.\nMy lecture styles can vary based on the type of course. When teaching courses where we emphasize coding, I create Quarto slides. With these, students and I can code live in class directly in the slides! No need to download any software (or type code in a Word document). For more math-heavy courses, I annotate PDF slides on my iPad and provide students with both blank and annotated versions of the notes, where possible.\nI love working through problems from start to finish in class, and providing students the chance to work on problems individually or in small groups. My goal is to create a strong sense of community within the classroom, so students feel confident and supported by not only me, but also their peers. There is no shame in giving an incorrect answer in class. I see “wrong answers” as an important point of discussion.\nIf this sounds like your type of course, you can see my teaching schedule below."
+  },
+  {
+    "objectID": "teaching.html#teaching-evaluations",
+    "href": "teaching.html#teaching-evaluations",
+    "title": "Teaching",
+    "section": "Teaching Evaluations",
+    "text": "Teaching Evaluations\nFor transparency, here is a summary of student evaluations of teaching effectiveness scores (mean of Interpolated Median (IM) for instructor-related questions.) All scores are out of 5.\n\n\n\n\n\n\n\n\n\nTerm\nCourse\nResponses/Class Size\nMean Score\n\n\n\n\n2025 - 2026 Winter 2\nSTAT 450\n11/26\n4.90\n\n\n\nDSCI 100\n81/169\n4.80\n\n\n2025 - 2026 Winter 1\nDSCI 100\n76/184\n4.73\n\n\n\nSTAT 545A\n36/80\n4.90\n\n\n\nSTAT 545B\n30/65\n4.97"
   }
 ]
