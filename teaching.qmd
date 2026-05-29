@@ -18,13 +18,13 @@ If this sounds like your type of course, you can see my teaching schedule below.
 
 For transparency, here is a summary of student evaluations of teaching effectiveness scores (mean of Interpolated Median (IM) for instructor-related questions.) All scores are out of 5.
 
-| Term                  | Course    | Responses/Class Size | Mean Score |
-|-----------------------|-----------|----------------------|------------|
-| 2025 - 2026 Winter 2  | STAT 450  | 11/26                | 4.90       |
-|                       | DSCI 100  | 81/169               | 4.80       |
-| 2025 - 2026 Winter 1  | DSCI 100  | 76/184               | 4.73       |
-|                       | STAT 545A | 36/80                | 4.90       |
-|                       | STAT 545B | 30/65                | 4.97       |
+| Term                 | Course    | Responses/Class Size | Mean Score |
+|----------------------|-----------|----------------------|------------|
+| 2025 - 2026 Winter 2 | STAT 450  | 11/26                | 4.90       |
+|                      | DSCI 100  | 81/169               | 4.80       |
+| 2025 - 2026 Winter 1 | DSCI 100  | 76/184               | 4.73       |
+|                      | STAT 545A | 36/80                | 4.90       |
+|                      | STAT 545B | 30/65                | 4.97       |
 
 ## Current Courses
 

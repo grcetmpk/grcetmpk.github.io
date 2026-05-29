@@ -161,11 +161,25 @@
     "text": "I strive to provide a safe, accessible, and fun space for all students to learn statistics and data science.\nI try my best to make lectures engaging by using relevant real-world examples. You will find me bringing a stack of Pokemon cards to lecture to demonstrate bootstrapping, or scrolling through Instagram explore pages to discuss clustering.\nMy lecture styles can vary based on the type of course. When teaching courses where we emphasize coding, I create Quarto slides. With these, students and I can code live in class directly in the slides! No need to download any software (or type code in a Word document). For more math-heavy courses, I annotate PDF slides on my iPad and provide students with both blank and annotated versions of the notes, where possible.\nI love working through problems from start to finish in class, and providing students the chance to work on problems individually or in small groups. My goal is to create a strong sense of community within the classroom, so students feel confident and supported by not only me, but also their peers. There is no shame in giving an incorrect answer in class. I see “wrong answers” as an important point of discussion.\nIf this sounds like your type of course, you can see my teaching schedule below."
   },
   {
+    "objectID": "teaching.html#teaching-style",
+    "href": "teaching.html#teaching-style",
+    "title": "Teaching",
+    "section": "",
+    "text": "I strive to provide a safe, accessible, and fun space for all students to learn statistics and data science.\nI try my best to make lectures engaging by using relevant real-world examples. You will find me bringing a stack of Pokemon cards to lecture to demonstrate bootstrapping, or scrolling through Instagram explore pages to discuss clustering.\nMy lecture styles can vary based on the type of course. When teaching courses where we emphasize coding, I create Quarto slides. With these, students and I can code live in class directly in the slides! No need to download any software (or type code in a Word document). For more math-heavy courses, I annotate PDF slides on my iPad and provide students with both blank and annotated versions of the notes, where possible.\nI love working through problems from start to finish in class, and providing students the chance to work on problems individually or in small groups. My goal is to create a strong sense of community within the classroom, so students feel confident and supported by not only me, but also their peers. There is no shame in giving an incorrect answer in class. I see “wrong answers” as an important point of discussion.\nIf this sounds like your type of course, you can see my teaching schedule below."
+  },
+  {
+    "objectID": "teaching.html#teaching-evaluations",
+    "href": "teaching.html#teaching-evaluations",
+    "title": "Teaching",
+    "section": "Teaching Evaluations",
+    "text": "Teaching Evaluations\nFor transparency, here is a summary of student evaluations of teaching effectiveness scores (mean of Interpolated Median (IM) for instructor-related questions.) All scores are out of 5.\n\n\n\nTerm\nCourse\nResponses/Class Size\nMean Score\n\n\n\n\n2025 - 2026 Winter 2\nSTAT 450\n11/26\n4.90\n\n\n\nDSCI 100\n81/169\n4.80\n\n\n2025 - 2026 Winter 1\nDSCI 100\n76/184\n4.73\n\n\n\nSTAT 545A\n36/80\n4.90\n\n\n\nSTAT 545B\n30/65\n4.97"
+  },
+  {
     "objectID": "teaching.html#current-courses",
     "href": "teaching.html#current-courses",
     "title": "Teaching",
     "section": "Current Courses",
-    "text": "Current Courses\n\nSTAT 302: Introduction to Probability (Spring Term 1 2026, University of British Columbia)"
+    "text": "Current Courses\n\nSTAT 302: Introduction to Probability (Summer Term 1 2026, University of British Columbia)"
   },
   {
     "objectID": "teaching.html#upcoming-courses",
@@ -264,19 +278,5 @@
     "title": "Indigenizing Statistics and Data Science Education",
     "section": "",
     "text": "I’m currently working on a repository for Indigenizing Statistics and Data Science Education (ISDSE). This is a hub for educators in the fields of Statistics and Data Science to learn about how they can incorporate Indigenous topics into their classrooms in a way that is organic and appropriate.\nWe will be providing tools that will allow educators to confidently and appropriately do the following:\n\nIncorporate Indigenous knowledge into their current curricula\nFacilitate discussions on the impact of data on Indigenous communities\nAppropriately use Indigenous data in classroom examples\n\nModules are create for various statistical topics, so that they can be used across a variety of courses and levels.\nYou can check out the current version here: https://grcetmpk.github.io/indigenizing-stat-ed/. Please note that the contents are still being developed.\n\nInterested in collaborating on this project? Please reach out at grace&lt;-at-&gt;stat.ubc.ca!"
-  },
-  {
-    "objectID": "teaching.html#teaching-style",
-    "href": "teaching.html#teaching-style",
-    "title": "Teaching",
-    "section": "",
-    "text": "I strive to provide a safe, accessible, and fun space for all students to learn statistics and data science.\nI try my best to make lectures engaging by using relevant real-world examples. You will find me bringing a stack of Pokemon cards to lecture to demonstrate bootstrapping, or scrolling through Instagram explore pages to discuss clustering.\nMy lecture styles can vary based on the type of course. When teaching courses where we emphasize coding, I create Quarto slides. With these, students and I can code live in class directly in the slides! No need to download any software (or type code in a Word document). For more math-heavy courses, I annotate PDF slides on my iPad and provide students with both blank and annotated versions of the notes, where possible.\nI love working through problems from start to finish in class, and providing students the chance to work on problems individually or in small groups. My goal is to create a strong sense of community within the classroom, so students feel confident and supported by not only me, but also their peers. There is no shame in giving an incorrect answer in class. I see “wrong answers” as an important point of discussion.\nIf this sounds like your type of course, you can see my teaching schedule below."
-  },
-  {
-    "objectID": "teaching.html#teaching-evaluations",
-    "href": "teaching.html#teaching-evaluations",
-    "title": "Teaching",
-    "section": "Teaching Evaluations",
-    "text": "Teaching Evaluations\nFor transparency, here is a summary of student evaluations of teaching effectiveness scores (mean of Interpolated Median (IM) for instructor-related questions.) All scores are out of 5.\n\n\n\n\n\n\n\n\n\nTerm\nCourse\nResponses/Class Size\nMean Score\n\n\n\n\n2025 - 2026 Winter 2\nSTAT 450\n11/26\n4.90\n\n\n\nDSCI 100\n81/169\n4.80\n\n\n2025 - 2026 Winter 1\nDSCI 100\n76/184\n4.73\n\n\n\nSTAT 545A\n36/80\n4.90\n\n\n\nSTAT 545B\n30/65\n4.97"
   }
 ]
