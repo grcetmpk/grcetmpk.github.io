@@ -14,6 +14,8 @@ I love working through problems from start to finish in class, and providing stu
 
 If this sounds like your type of course, you can see my teaching schedule below.
 
+<!--
+
 ## Teaching Evaluations
 
 For transparency, here is a summary of student evaluations of teaching effectiveness scores (mean of Interpolated Median (IM) for instructor-related questions.) All scores are out of 5.
@@ -27,12 +29,20 @@ For transparency, here is a summary of student evaluations of teaching effective
 |                           | STAT 545A | 36/80                | 4.90       |
 |                           | STAT 545B | 30/65                | 4.97       |
 
+-->
+
 ## Current Courses
+
+-   [STAT 302:](https://ubc-stat.github.io/stat-302/) *Introduction to Probability* (Fall 2026, University of British Columbia)
+
+-   [STAT 545 A/B:](https://ubc-stat.github.io/stat545) *Exploratory Data Analysis* (Fall 2026, University of British Columbia)
 
 ## Upcoming Courses:
 
--   [STAT 302:](https://ubc-stat.github.io/stat-302/) *Introduction to Probability* (Fall 2026, University of British Columbia)
--   [STAT 545 A/B:](https://ubc-stat.github.io/stat545) *Exploratory Data Analysis* (Fall 2026, University of British Columbia)
+-   [STAT 200](https://www.stat.ubc.ca/course/undergraduate/winter/2025/stat-200-elementary-statistics-applications): Elementary Statistics for Applications (Winter 2027, University of British Columbia)
+-   [DSCI 542](https://masterdatascience.ubc.ca/programs/vancouver/course-communication-and-argumentation-dsci-542): Communication and Argumentation (Winter 2027 (MDS Block 6), University of British Columbia)
+
+## 
 
 ## Past Courses
 
