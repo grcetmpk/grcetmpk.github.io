@@ -8,6 +8,9 @@ format:
     scrollable: true
     slide-number: true
     smaller: true
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 # Motivation
@@ -20,7 +23,8 @@ format:
 
     -   Allowed instructors to run code in the slides (cool! 😃)
 
-    -   Connected with GitHub (great for collaboration across 5+ instructors 😃)
+    -   Connected with GitHub (great for collaboration across 5+
+        instructors 😃)
 
 ## Motivation
 
@@ -50,7 +54,8 @@ Images after zooming to an appropriate size for the text
 
 ## Motivation
 
-Quarto (a next-generation version of RMarkdown launched by Posit in 2022) provided an opportunity to remove many of these pain points.
+Quarto (a next-generation version of RMarkdown launched by Posit in
+2022) provided an opportunity to remove many of these pain points.
 
 ![](img/logo-quarto.png){fig-align="center" width="100"}
 
@@ -66,7 +71,8 @@ Quarto (a next-generation version of RMarkdown launched by Posit in 2022) provid
 
 ## Quarto Slides in STAT 545
 
-[STAT545 Lecture Slides on Data Visualization](https://ubc-stat.github.io/stat545/webpages/slides/lec4a_datavis_slides.html#/title-slide)
+[STAT545 Lecture Slides on Data
+Visualization](https://ubc-stat.github.io/stat545/webpages/slides/lec4a_datavis_slides.html#/title-slide)
 
 Features:
 
@@ -86,7 +92,8 @@ Let's build a minimal, reproducible course website with a slide deck!\
 \
 If you'd like to follow along, you'll need:
 
--   RStudio (or Positron) with [Quarto](https://quarto.org/docs/get-started/) installed
+-   RStudio (or Positron) with
+    [Quarto](https://quarto.org/docs/get-started/) installed
 
 -   a GitHub account
 
@@ -104,7 +111,8 @@ Quarto Project Set Up
 
 ## Step 2: Set up the website {.scrollable .nostretch}
 
--   **Before doing anything, remove the Jekyll template by running `touch .nojekyll` in the terminal**
+-   **Before doing anything, remove the Jekyll template by running
+    `touch .nojekyll` in the terminal**
 
 ## Step 2: Set up the website {.scrollable .nostretch}
 
@@ -156,9 +164,11 @@ Render website to see what it looks like, and ensure your link works!
 
 -   Run `quarto render` in the **terminal** to render entire site
 
--   Create a repo (I prefer the `usethis` package with `use_git()` and `use_github()`)
+-   Create a repo (I prefer the `usethis` package with `use_git()` and
+    `use_github()`)
 
--   On your GitHub repository, go to Settings \> Pages. Set the branch as `main` and the folder as `docs` and click save.
+-   On your GitHub repository, go to Settings \> Pages. Set the branch
+    as `main` and the folder as `docs` and click save.
 
     -   Wait, refresh, and visit your live site!
 
@@ -168,16 +178,20 @@ Render website to see what it looks like, and ensure your link works!
 
 -   In the terminal, run `quarto add r-wasm/quarto-live`
 
--   Trust the extension and allow changes by running `Y` twice. You can view documentation if you'd like.
+-   Trust the extension and allow changes by running `Y` twice. You can
+    view documentation if you'd like.
 
-Now, a `_extensions` folder will appear with `r-wasm` and `live` folders nested within it.
+Now, a `_extensions` folder will appear with `r-wasm` and `live` folders
+nested within it.
 
 ## Step 7: Set up webr and Quarto live {.scrollable .nostretch}
 
 In your slide file (`01-intro.qmd`):
 
--   Change the output format to `live-revealjs` and add `engine: knitr` in the preamble.
--   Add `{{< include ../extension/r-wasm/live/_knitr.qmd >}}` directly under the preamble
+-   Change the output format to `live-revealjs` and add `engine: knitr`
+    in the preamble.
+-   Add `{{< include ../extension/r-wasm/live/_knitr.qmd >}}` directly
+    under the preamble
 
 ![](img/01_preamble.png){fig-align="center"}
 
@@ -185,35 +199,13 @@ In your slide file (`01-intro.qmd`):
 
 -   Add the following code to the bottom of your `01-intro.qmd` file:
 
-```{{webr}}
-# Look at the first few rows of mtcars
-
-head(...)
-````
-
-Click **Render**. Edit the code and run it! Now click reset.
-
-## Step 9: (Optional) Pre-load packages  {.scrollable .nostretch}
-
-If you'd like to pre-load large packages, you can do so in the preamble. Then, that package's functions are immediately available!
-
-![](img/ggplot1.png){fig-align="center"}
-
-Now you can use `ggplot`. Add this code, render the slides, and play with the code chunk.
-
-![](img/ggplot2.png){fig-align="center"}
-
-## Step 10: Render and push all changes to GitHub
-
-In the Terminal:
-
-```         
+31b8e172-b470-440e-83d8-e6b185028602:dAB5AHAAZQA6AE8AUQBCAGoAQQBHAEkAQQBOAHcAQQA1AEEARwBVAEEATgBnAEIAagBBAEMAMABBAE8AQQBBADQAQQBEAGcAQQBaAEEAQQB0AEEARABRAEEAWQBRAEEAdwBBAEcAVQBBAEwAUQBBADUAQQBHAE0AQQBPAFEAQgBpAEEAQwAwAEEAWgBnAEIAbQBBAEQAWQBBAE4AdwBCAGoAQQBHAFEAQQBOAEEAQQB3AEEARABRAEEAWgBRAEEAMgBBAEQAQQBBAAoAcABvAHMAaQB0AGkAbwBuADoATgBBAEEAMgBBAEQATQBBAE4AQQBBAD0ACgBwAHIAZQBmAGkAeAA6AAoAcwBvAHUAcgBjAGUAOgBZAEEAQgBnAEEARwBBAEEAZQB3AEIANwBBAEgAYwBBAFoAUQBCAGkAQQBIAEkAQQBmAFEAQgA5AEEAQQBvAEEASQB3AEEAZwBBAEUAdwBBAGIAdwBCAHYAQQBHAHMAQQBJAEEAQgBoAEEASABRAEEASQBBAEIAMABBAEcAZwBBAFoAUQBBAGcAQQBHAFkAQQBhAFEAQgB5AEEASABNAEEAZABBAEEAZwBBAEcAWQBBAFoAUQBCADMAQQBDAEEAQQBjAGcAQgB2AEEASABjAEEAYwB3AEEAZwBBAEcAOABBAFoAZwBBAGcAQQBHADAAQQBkAEEAQgBqAEEARwBFAEEAYwBnAEIAegBBAEEAbwBBAEMAZwBCAG8AQQBHAFUAQQBZAFEAQgBrAEEAQwBnAEEATABnAEEAdQBBAEMANABBAEsAUQBBAEsAQQBHAEEAQQBZAEEAQgBnAEEARwBBAEEAQwBnAEEASwBBAEUATQBBAGIAQQBCAHAAQQBHAE0AQQBhAHcAQQBnAEEAQwBvAEEASwBnAEIAUwBBAEcAVQBBAGIAZwBCAGsAQQBHAFUAQQBjAGcAQQBxAEEAQwBvAEEATABnAEEAZwBBAEUAVQBBAFoAQQBCAHAAQQBIAFEAQQBJAEEAQgAwAEEARwBnAEEAWgBRAEEAZwBBAEcATQBBAGIAdwBCAGsAQQBHAFUAQQBJAEEAQgBoAEEARwA0AEEAWgBBAEEAZwBBAEgASQBBAGQAUQBCAHUAQQBDAEEAQQBhAFEAQgAwAEEAQwBFAEEASQBBAEIATwBBAEcAOABBAGQAdwBBAGcAQQBHAE0AQQBiAEEAQgBwAEEARwBNAEEAYQB3AEEAZwBBAEgASQBBAFoAUQBCAHoAQQBHAFUAQQBkAEEAQQB1AEEAQQBvAEEAQwBnAEEAagBBAEMATQBBAEkAQQBCAFQAQQBIAFEAQQBaAFEAQgB3AEEAQwBBAEEATwBRAEEANgBBAEMAQQBBAEsAQQBCAFAAQQBIAEEAQQBkAEEAQgBwAEEARwA4AEEAYgBnAEIAaABBAEcAdwBBAEsAUQBBAGcAQQBGAEEAQQBjAGcAQgBsAEEAQwAwAEEAYgBBAEIAdgBBAEcARQBBAFoAQQBBAGcAQQBIAEEAQQBZAFEAQgBqAEEARwBzAEEAWQBRAEIAbgBBAEcAVQBBAGMAdwBBAGcAQQBDAEEAQQBlAHcAQQB1AEEASABNAEEAWQB3AEIAeQBBAEcAOABBAGIAQQBCAHMAQQBHAEUAQQBZAGcAQgBzAEEARwBVAEEASQBBAEEAdQBBAEcANABBAGIAdwBCAHoAQQBIAFEAQQBjAGcAQgBsAEEASABRAEEAWQB3AEIAbwBBAEgAMABBAEMAZwBBAEsAQQBFAGsAQQBaAGcAQQBnAEEASABrAEEAYgB3AEIAMQBBAEMAYwBBAFoAQQBBAGcAQQBHAHcAQQBhAFEAQgByAEEARwBVAEEASQBBAEIAMABBAEcAOABBAEkAQQBCAHcAQQBIAEkAQQBaAFEAQQB0AEEARwB3AEEAYgB3AEIAaABBAEcAUQBBAEkAQQBCAHMAQQBHAEUAQQBjAGcAQgBuAEEARwBVAEEASQBBAEIAdwBBAEcARQBBAFkAdwBCAHIAQQBHAEUAQQBaAHcAQgBsAEEASABNAEEATABBAEEAZwBBAEgAawBBAGIAdwBCADEAQQBDAEEAQQBZAHcAQgBoAEEARwA0AEEASQBBAEIAawBBAEcAOABBAEkAQQBCAHoAQQBHADgAQQBJAEEAQgBwAEEARwA0AEEASQBBAEIAMABBAEcAZwBBAFoAUQBBAGcAQQBIAEEAQQBjAGcAQgBsAEEARwBFAEEAYgBRAEIAaQBBAEcAdwBBAFoAUQBBAHUAQQBDAEEAQQBWAEEAQgBvAEEARwBVAEEAYgBnAEEAcwBBAEMAQQBBAGQAQQBCAG8AQQBHAEUAQQBkAEEAQQBnAEEASABBAEEAWQBRAEIAagBBAEcAcwBBAFkAUQBCAG4AQQBHAFUAQQBKAHcAQgB6AEEAQwBBAEEAWgBnAEIAMQBBAEcANABBAFkAdwBCADAAQQBHAGsAQQBiAHcAQgB1AEEASABNAEEASQBBAEIAaABBAEgASQBBAFoAUQBBAGcAQQBHAGsAQQBiAFEAQgB0AEEARwBVAEEAWgBBAEIAcABBAEcARQBBAGQAQQBCAGwAQQBHAHcAQQBlAFEAQQBnAEEARwBFAEEAZABnAEIAaABBAEcAawBBAGIAQQBCAGgAQQBHAEkAQQBiAEEAQgBsAEEAQwBFAEEAQwBnAEEASwBBAEMARQBBAFcAdwBCAGQAQQBDAGcAQQBhAFEAQgB0AEEARwBjAEEATAB3AEIAbgBBAEcAYwBBAGMAQQBCAHMAQQBHADgAQQBkAEEAQQB4AEEAQwA0AEEAYwBBAEIAdQBBAEcAYwBBAEsAUQBCADcAQQBHAFkAQQBhAFEAQgBuAEEAQwAwAEEAWQBRAEIAcwBBAEcAawBBAFoAdwBCAHUAQQBEADAAQQBJAGcAQgBqAEEARwBVAEEAYgBnAEIAMABBAEcAVQBBAGMAZwBBAGkAQQBIADAAQQBDAGcAQQBLAEEARQA0AEEAYgB3AEIAMwBBAEMAQQBBAGUAUQBCAHYAQQBIAFUAQQBJAEEAQgBqAEEARwBFAEEAYgBnAEEAZwBBAEgAVQBBAGMAdwBCAGwAQQBDAEEAQQBZAEEAQgBuAEEARwBjAEEAYwBBAEIAcwBBAEcAOABBAGQAQQBCAGcAQQBDADQAQQBJAEEAQgBCAEEARwBRAEEAWgBBAEEAZwBBAEgAUQBBAGEAQQBCAHAAQQBIAE0AQQBJAEEAQgBqAEEARwA4AEEAWgBBAEIAbABBAEMAdwBBAEkAQQBCAHkAQQBHAFUAQQBiAGcAQgBrAEEARwBVAEEAYwBnAEEAZwBBAEgAUQBBAGEAQQBCAGwAQQBDAEEAQQBjAHcAQgBzAEEARwBrAEEAWgBBAEIAbABBAEgATQBBAEwAQQBBAGcAQQBHAEUAQQBiAGcAQgBrAEEAQwBBAEEAYwBBAEIAcwBBAEcARQBBAGUAUQBBAGcAQQBIAGMAQQBhAFEAQgAwAEEARwBnAEEASQBBAEIAMABBAEcAZwBBAFoAUQBBAGcAQQBHAE0AQQBiAHcAQgBrAEEARwBVAEEASQBBAEIAagBBAEcAZwBBAGQAUQBCAHUAQQBHAHMAQQBMAGcAQQBLAEEAQQBvAEEASQBRAEIAYgBBAEYAMABBAEsAQQBCAHAAQQBHADAAQQBaAHcAQQB2AEEARwBjAEEAWgB3AEIAdwBBAEcAdwBBAGIAdwBCADAAQQBEAEkAQQBMAGcAQgB3AEEARwA0AEEAWgB3AEEAcABBAEgAcwBBAFoAZwBCAHAAQQBHAGMAQQBMAFEAQgBoAEEARwB3AEEAYQBRAEIAbgBBAEcANABBAFAAUQBBAGkAQQBHAE0AQQBaAFEAQgB1AEEASABRAEEAWgBRAEIAeQBBAEMASQBBAGYAUQBBAEsAQQBBAG8AQQBJAHcAQQBqAEEAQwBBAEEAVQB3AEIAMABBAEcAVQBBAGMAQQBBAGcAQQBEAEUAQQBNAEEAQQA2AEEAQwBBAEEAVQBnAEIAbABBAEcANABBAFoAQQBCAGwAQQBIAEkAQQBJAEEAQgBoAEEARwA0AEEAWgBBAEEAZwBBAEgAQQBBAGQAUQBCAHoAQQBHAGcAQQBJAEEAQgBoAEEARwB3AEEAYgBBAEEAZwBBAEcATQBBAGEAQQBCAGgAQQBHADQAQQBaAHcAQgBsAEEASABNAEEASQBBAEIAMABBAEcAOABBAEkAQQBCAEgAQQBHAGsAQQBkAEEAQgBJAEEASABVAEEAWQBnAEEASwBBAEEAbwBBAFMAUQBCAHUAQQBDAEEAQQBkAEEAQgBvAEEARwBVAEEASQBBAEIAVQBBAEcAVQBBAGMAZwBCAHQAQQBHAGsAQQBiAGcAQgBoAEEARwB3AEEATwBnAEEASwBBAEEAbwBBAFkAQQBCAGcAQQBHAEEAQQAKAHMAdQBmAGYAaQB4ADoASQBBAEEAZwBBAEMAQQBBAEkAQQBBAGcAQQBDAEEAQQBJAEEAQQBnAEEAQwBBAEEA:31b8e172-b470-440e-83d8-e6b185028602\
 quarto render
 
-git add . 
-git commit -m "adding executable cells to lec01"
-git push origin main
-```
+git add . git commit -m "adding executable cells to lec01" git push
+origin main
+
+```         
 
 Wait for GH Pages to sync and refresh your site.
 
@@ -234,22 +226,18 @@ Wait for GH Pages to sync and refresh your site.
 -   Provide students with scaffolding of code (do you want to type 10 lines of ggplot code every time you plot something?)
 
 -   Provide datasets in the slides with
+```
+
+format: live-revealjs: resources: - data/gapminder.csv
 
 ```         
-format: 
-  live-revealjs:
-    resources: 
-      - data/gapminder.csv
-```
 
 -   Set slides to be scrollable by default OR text to be smaller with
+```
+
+format: live-revealjs: scrollable: true smaller: true
 
 ```         
-format: 
-  live-revealjs:
-    scrollable: true
-    smaller: true
-```
 
 ## Recommendations
 
@@ -272,12 +260,21 @@ format:
 :::
 ```
 
--   Control which code chunks are persistent, static, editable, read-only, or automatically run (<https://r-wasm.github.io/quarto-live/getting_started/editor.html>)
+-   Control which code chunks are persistent, static, editable,
+    read-only, or automatically run
+    (<https://r-wasm.github.io/quarto-live/getting_started/editor.html>)
 
--   Add tests for automatic feedback! (<https://r-wasm.github.io/quarto-live/exercises/grading.html>)
+-   Add tests for automatic feedback!
+    (<https://r-wasm.github.io/quarto-live/exercises/grading.html>)
 
-## Wrap-up
+## Wrap-up {.nostretch}
 
-This exact repository can be found at <https://github.com/grcetmpk/stat-000>
+-   This exact [repository](https://github.com/grcetmpk/stat-000) builds
+    the fake course website <https://grcetmpk.github.io/stat-000/>
 
-Which builds the fake course website <https://grcetmpk.github.io/stat-000/>
+-   All content (including slides and a YouTube video) can be found on
+    [my website](https://grcetmpk.github.io/workshops/tlsds-2026/) under
+    "Workshops"
+
+[![](img/QR.png){fig-align="center"
+width="200"}](https://grcetmpk.github.io/workshops/tlsds-2026/)
