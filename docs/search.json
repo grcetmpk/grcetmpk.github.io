@@ -140,6 +140,167 @@
     "text": "Selected Talks\n\nGrace Tompkins, Joel Dubin, Michael Wallace. Weight Trimming for Flexible Inverse Probability of Treatment and Intensity Weighting. (2024). International Society for Clinical Biostatistics Conference, Thessaloniki, Greece.\nGrace Tompkins, Joel Dubin, Michael Wallace. The Impacts of Noninformative Censoring in the Analysis of Irregular Longitudinal Data with Informative Observation Times and Non-randomized Treatment Assignments. (2023). Eastern North American Region International Biometric Society Conference, Nashville, USA.\nGrace Tompkins, Joel Dubin, Michael Wallace. Adjusting for Informative Observation Times and Non-randomized Exposures via Weighting Methods in Irregular Longitudinal Data Analysis. (2023). American Statistical Association Conference on Statistical Practice, San Francisco, USA.\nGrace Tompkins, Joel A Dubin, Michael Wallace. Accounting for Informative Observation Times and Non-randomized Exposures in Irregular Longitudinal Data Analysis via Weighting Methods. (2022). Waterloo Student Conference in Statistics, Actuarial Sciences, and Finance, Waterloo Canada.\nGrace Tompkins, Michael Wallace, Xavier Loffree. How Do I Choose? Personalized Decision-Making in Multiple Attribute Settings. (2022). American Statistical Association Conference on Statistical Practice, Virtual (USA).\nGrace Tompkins, Derrick G. Lee. Pre-pregnancy Polycyclic Aromatic Hydrocarbons and its Effects on Breast Cancer Development. (2018). Science Atlantic: Mathematics, Statistics, and Computer Science Conference, Moncton, Canada."
   },
   {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#motivation-1",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#motivation-1",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Motivation",
+    "text": "Motivation\n\nMy first course assigned at UBC was DSCI 100\nSlides were built using RISE/JupyterHub\n\nAllowed instructors to run code in the slides (cool! 😃)\nConnected with GitHub (great for collaboration across 5+ instructors 😃)"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#motivation-2",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#motivation-2",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Motivation",
+    "text": "Motivation\n\nMy first course assigned at UBC was DSCI 100\nSlides were built using RISE/JupyterHub\n\nStudents could not code in the slides ☹️\nCouldn’t easily control text and image size ☹️\nGenerally a pain to edit and present with ☹️\nTerrible (in my opinion) user interface ☹️"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#motivation-3",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#motivation-3",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Motivation",
+    "text": "Motivation\nText size at 100% zoom"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#motivation-4",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#motivation-4",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Motivation",
+    "text": "Motivation\nImages after zooming to an appropriate size for the text"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#motivation-5",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#motivation-5",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Motivation",
+    "text": "Motivation\nQuarto (a next-generation version of RMarkdown launched by Posit in 2022) provided an opportunity to remove many of these pain points.\n\n\nSimilar syntax to RMarkdown/RISE\nOptions for custom css styling\nEasy webpage dev with GitHub pages\nExtensions for slides, live coding (both end users)"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#quarto-slides-in-stat-545",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#quarto-slides-in-stat-545",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Quarto Slides in STAT 545",
+    "text": "Quarto Slides in STAT 545\nSTAT545 Lecture Slides on Data Visualization\nFeatures:\n\nLive code blocks with scaffolding\nScrollable slides\nHidden code for generating data sets (gapminder_2026)\nTip boxes, links, stylized text, images"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#prerequisites",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#prerequisites",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nLet’s build a minimal, reproducible course website with a slide deck!\n\nIf you’d like to follow along, you’ll need:\n\nRStudio (or Positron) with Quarto installed\na GitHub account"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-1-create-a-quarto-project",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-1-create-a-quarto-project",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 1: Create a Quarto project",
+    "text": "Step 1: Create a Quarto project\n\nGo to File &gt; New Project &gt; New Directory &gt; Quarto Website\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 1: Quarto Project Set Up"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-2-set-up-the-website",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-2-set-up-the-website",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 2: Set up the website",
+    "text": "Step 2: Set up the website\n\nBefore doing anything, remove the Jekyll template by running touch .nojekyll in the terminal"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-2-set-up-the-website-1",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-2-set-up-the-website-1",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 2: Set up the website",
+    "text": "Step 2: Set up the website\nPages:\n\nindex.qmd is the homepage.\n\nDo not rename, but you can edit the contents!\n\nabout.qmd is another page.\n\nYou can rename/delete/edit this (I will delete)"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-2-set-up-the-website-2",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-2-set-up-the-website-2",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 2: Set up the website",
+    "text": "Step 2: Set up the website\nPages:\n\n_quarto.yml is used to organize and set up the website.\n\nDo not rename.\nI am adding output-dir: docs to the project section"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-3-add-some-slides",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-3-add-some-slides",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 3: Add some slides",
+    "text": "Step 3: Add some slides\n\nCreate a folder called slides and add 01-intro.qmd\nUpdate the output format to format: revealjs\nUpdate the title\nWrite some slides with level two headers (##)\n\nHit the render button to see what it looks like!"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-4-link-the-slides-to-the-homepage",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-4-link-the-slides-to-the-homepage",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 4: Link the slides to the homepage",
+    "text": "Step 4: Link the slides to the homepage\n\nLink the slides to your homepage with a relative file path\n\n\nRender website to see what it looks like, and ensure your link works!"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-5-host-on-github-pages",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-5-host-on-github-pages",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 5: Host on GitHub Pages",
+    "text": "Step 5: Host on GitHub Pages\n\nRun quarto render in the terminal to render entire site\nCreate a repo (I prefer the usethis package with use_git() and use_github())\nOn your GitHub repository, go to Settings &gt; Pages. Set the branch as main and the folder as docs and click save.\n\nWait, refresh, and visit your live site!"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-6-install-webr-and-quarto-live",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-6-install-webr-and-quarto-live",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 6: Install webr and Quarto live",
+    "text": "Step 6: Install webr and Quarto live\n\nIn the terminal, run quarto add r-wasm/quarto-live\nTrust the extension and allow changes by running Y twice. You can view documentation if you’d like.\n\nNow, a _extensions folder will appear with r-wasm and live folders nested within it."
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-7-set-up-webr-and-quarto-live",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-7-set-up-webr-and-quarto-live",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 7: Set up webr and Quarto live",
+    "text": "Step 7: Set up webr and Quarto live\nIn your slide file (01-intro.qmd):\n\nChange the output format to live-revealjs and add engine: knitr in the preamble.\nAdd {{&lt; include ../extension/r-wasm/live/_knitr.qmd &gt;}} directly under the preamble"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-8-create-executable-code-cells",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-8-create-executable-code-cells",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 8: Create executable code cells",
+    "text": "Step 8: Create executable code cells\n\nAdd the following code to the bottom of your 01-intro.qmd file:\n\n```{webr}\n# Look at the first few rows of mtcars\n\nhead(...)\n```\nClick Render. Edit the code and run it! Now click reset."
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-9-optional-pre-load-packages",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-9-optional-pre-load-packages",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 9: (Optional) Pre-load packages",
+    "text": "Step 9: (Optional) Pre-load packages\nIf you’d like to pre-load large packages, you can do so in the preamble. Then, that package’s functions are immediately available!\n\n\n\n\n\nNow you can use ggplot. Add this code, render the slides, and play with the code chunk."
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#step-10-render-and-push-all-changes-to-github",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#step-10-render-and-push-all-changes-to-github",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Step 10: Render and push all changes to GitHub",
+    "text": "Step 10: Render and push all changes to GitHub\nIn the Terminal:\nquarto render\n\ngit add . \ngit commit -m \"adding executable cells to lec01\"\ngit push origin main\nWait for GH Pages to sync and refresh your site."
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#reflections",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#reflections",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Reflections",
+    "text": "Reflections\n\nMy students loved the Quarto slides in DSCI 100 and the work of converting them from RISE to Quarto was relatively minimal.\nI use Quarto for most course content, and it saved me from the Great Canvas Attack of 2026\nQuarto also can use Python code chunks! (plus… Positron, the next gen RStudio allows you to code in both R and Python)\nQuarto 2 is coming soon! It will have more collaborative features and will be re-written in rust so that rendering is nearly instant."
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#recommendations",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#recommendations",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Recommendations",
+    "text": "Recommendations\n\nProvide students with scaffolding of code (do you want to type 10 lines of ggplot code every time you plot something?)\nProvide datasets in the slides with\n\nformat: \n  live-revealjs:\n    resources: \n      - data/gapminder.csv\n\nSet slides to be scrollable by default OR text to be smaller with\n\nformat: \n  live-revealjs:\n    scrollable: true\n    smaller: true"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#recommendations-1",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#recommendations-1",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Recommendations",
+    "text": "Recommendations\n\nYou can change the owner of the repo to an organization (i.e. UBC-STAT or UBC-DSCI) under the “Danger Zone” in the repository settings\n(revealjs only - I think??) Create hidden blocks with\n\n---\ntitle: Lecture 10\nformat: \n  revealjs: default\n  pdf: default\n---\n\n::: {.content-hidden when-format=\"revealjs\"}\n\n[your solution which is only shown when rendered to pdf]\n\n:::\n\nControl which code chunks are persistent, static, editable, read-only, or automatically run (https://r-wasm.github.io/quarto-live/getting_started/editor.html)\nAdd tests for automatic feedback! (https://r-wasm.github.io/quarto-live/exercises/grading.html)"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026-slides.html#wrap-up",
+    "href": "workshops/tlsds-2026/tlsds-2026-slides.html#wrap-up",
+    "title": "Embedding Editable and Executable R Code into Slides using Quarto",
+    "section": "Wrap-up",
+    "text": "Wrap-up\nThis exact repository can be found at https://github.com/grcetmpk/stat-000\nWhich builds the fake course website https://grcetmpk.github.io/stat-000/"
+  },
+  {
     "objectID": "workshops/rladiesworkshopquarto/quartoworkshop.html",
     "href": "workshops/rladiesworkshopquarto/quartoworkshop.html",
     "title": "Quarto Webpages Workshop for R-Ladies+",
@@ -151,7 +312,7 @@
     "href": "workshops/gitworkshop/gitworkshop.html",
     "title": "Git Workshop",
     "section": "",
-    "text": "An invited Virtual Skills workshop for graduate students to learn about version control tools starting from the very basics. 52 people registered.\nClick here to view the workshop materials"
+    "text": "An invited Virtual Skills workshop for graduate students to learn about version control tools starting from the very basics.\nClick here to view the workshop materials"
   },
   {
     "objectID": "teaching.html",
@@ -193,7 +354,7 @@
     "href": "workshops/index.html",
     "title": "Workshops",
     "section": "",
-    "text": "Here are a list of workshops I’ve hosted (with their related materials).\n\n\n\n\n\n\n\n\n\n\nGit Workshop\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Webpages Workshop for R-Ladies+\n\n\n\n\n\n\n\n\n\n\n\n\nLife Science Symposium 2026: Data Visualization\n\n\n\n\n\nNo matching items"
+    "text": "Here are a list of workshops I’ve hosted (with their related materials).\n\n\n\n\n\n\n\n\n\n\nGit Workshop\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Webpages Workshop for R-Ladies+\n\n\n\n\n\n\n\n\n\n\n\n\nLife Science Symposium 2026: Data Visualization\n\n\n\n\n\n\n\n\n\n\nLecture 10\n\n\n\n\n\n\n\n\n\n\n\n\nEmbedding Editable and Executable R Code into Slides\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "workshops/lss2026/lss2026.html",
@@ -201,6 +362,13 @@
     "title": "Life Science Symposium 2026: Data Visualization",
     "section": "",
     "text": "An invited in-person workshop for students in life sciences or related disciplines. The workshop is one hour in length.\nThe workshop materials are available here: https://grcetmpk.github.io/lss2026-dataviz/"
+  },
+  {
+    "objectID": "workshops/tlsds-2026/tlsds-2026.html",
+    "href": "workshops/tlsds-2026/tlsds-2026.html",
+    "title": "Embedding Editable and Executable R Code into Slides",
+    "section": "",
+    "text": "This workshop was delivered as part of the UBC Teaching and Learning in Statistics and Data Science Seminar, which I organize.\n\nSlides\nSlides\n\n\nVideo\nYou can also check out this video that closely follows the workshop content:"
   },
   {
     "objectID": "justforfun/index.html",

@@ -9,6 +9,7 @@ listing:
       - gitworkshop
       - rladiesworkshopquarto
       - lss2026
+      - tlsds-2026
     type: grid
     grid-item-border: true
     sort: false
