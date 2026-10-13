@@ -3,7 +3,6 @@ title: "Embedding Editable and Executable R Code into Slides"
 subtitle: "UBC Teaching and Learning in Statistics and Data Science Seminar"
 categories:
 image: "quarto.png"
-href: "https://grcetmpk.github.io/quartoslideswithcode/"
 ---
 
 This workshop was delivered as part of the *UBC Teaching and Learning in Statistics and Data Science Seminar*, which I organize. 
@@ -11,7 +10,7 @@ This workshop was delivered as part of the *UBC Teaching and Learning in Statist
 
 ### Slides
 
-[Slides](tlsds-2026-slides.qmd)
+[Slides](../tlsds-2026-slides/slides.qmd)
 
 ### Video
 

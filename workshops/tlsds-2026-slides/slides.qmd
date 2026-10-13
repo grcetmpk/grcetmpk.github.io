@@ -257,7 +257,7 @@ format:
 
 -   (revealjs only  - I think??) Create hidden blocks with
 
-```         
+``` html
 ---
 title: Lecture 10
 format: 

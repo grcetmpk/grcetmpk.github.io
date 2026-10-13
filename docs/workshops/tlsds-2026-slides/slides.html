@@ -113,6 +113,7 @@
     }
     .reveal .slide:not(.center) {
       height: 100%;
+      overflow-y: auto;
     }
     .reveal .slide.scrollable {
       overflow-y: auto;
@@ -470,18 +471,18 @@ git push origin main</code></pre>
 <li><p>You can change the owner of the repo to an organization (i.e.&nbsp;UBC-STAT or UBC-DSCI) under the “Danger Zone” in the repository settings</p></li>
 <li><p>(revealjs only - I think??) Create hidden blocks with</p></li>
 </ul>
-<pre><code>---
-title: Lecture 10
-format: 
-  revealjs: default
-  pdf: default
----
-
-::: {.content-hidden when-format="revealjs"}
-
-[your solution which is only shown when rendered to pdf]
-
-:::</code></pre>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode numberSource html number-lines code-with-copy"><code class="sourceCode html"><span id="cb5-1"><a></a>---</span>
+<span id="cb5-2"><a></a>title: Lecture 10</span>
+<span id="cb5-3"><a></a>format: </span>
+<span id="cb5-4"><a></a>  revealjs: default</span>
+<span id="cb5-5"><a></a>  pdf: default</span>
+<span id="cb5-6"><a></a>---</span>
+<span id="cb5-7"><a></a></span>
+<span id="cb5-8"><a></a>::: {.content-hidden when-format="revealjs"}</span>
+<span id="cb5-9"><a></a></span>
+<span id="cb5-10"><a></a>[your solution which is only shown when rendered to pdf]</span>
+<span id="cb5-11"><a></a></span>
+<span id="cb5-12"><a></a>:::</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ul>
 <li><p>Control which code chunks are persistent, static, editable, read-only, or automatically run (<a href="https://r-wasm.github.io/quarto-live/getting_started/editor.html" class="uri">https://r-wasm.github.io/quarto-live/getting_started/editor.html</a>)</p></li>
 <li><p>Add tests for automatic feedback! (<a href="https://r-wasm.github.io/quarto-live/exercises/grading.html" class="uri">https://r-wasm.github.io/quarto-live/exercises/grading.html</a>)</p></li>
@@ -530,7 +531,7 @@ format:
 'autoAnimateUnmatched': true,
 'jumpToSlide': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
-'smaller': false,
+'smaller': true,
  
         // Display controls in the bottom right corner
         controls: false,
@@ -550,7 +551,7 @@ format:
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: false,
+        slideNumber: 'c/t',
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
