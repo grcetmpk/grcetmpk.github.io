@@ -387,7 +387,7 @@ Figure&nbsp;1: Quarto Project Set Up
 <p>In your slide file (<code>01-intro.qmd</code>):</p>
 <ul>
 <li>Change the output format to <code>live-revealjs</code> and add <code>engine: knitr</code> in the preamble.</li>
-<li>Add <code>{{&lt; include ../extension/r-wasm/live/_knitr.qmd &gt;}}</code> directly under the preamble</li>
+<li>Add <code>{{&lt; include ../_extensions/r-wasm/live/_knitr.qmd &gt;}}</code> directly under the preamble</li>
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure>
@@ -428,13 +428,23 @@ origin main
 <li><p>Provide datasets in the slides with</p></li>
 </ul>
 <pre><code>
-format: live-revealjs: resources: - data/gapminder.csv
+format: 
+
+  live-revealjs: 
+  
+    resources: - data/gapminder.csv
 </code></pre>
 <ul>
 <li>Set slides to be scrollable by default OR text to be smaller with</li>
 </ul>
 <pre><code>
-format: live-revealjs: scrollable: true smaller: true
+format: 
+
+  live-revealjs: 
+  
+    scrollable: true 
+    
+    smaller: true
 </code></pre>
 </section>
 <section id="recommendations-1" class="slide level2">
@@ -466,11 +476,6 @@ format: live-revealjs: scrollable: true smaller: true
 <li><p>This exact <a href="https://github.com/grcetmpk/stat-000">repository</a> builds the fake course website <a href="https://grcetmpk.github.io/stat-000/" class="uri">https://grcetmpk.github.io/stat-000/</a></p></li>
 <li><p>All content (including slides and a YouTube video) can be found on <a href="https://grcetmpk.github.io/workshops/tlsds-2026/">my website</a> under “Workshops”</p></li>
 </ul>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><a href="https://grcetmpk.github.io/workshops/tlsds-2026/"><img data-src="img/QR.png" class="quarto-figure quarto-figure-center" width="200"></a></p>
-</figure>
-</div>
 
 
 </section></section>

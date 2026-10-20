@@ -190,7 +190,7 @@ In your slide file (`01-intro.qmd`):
 
 -   Change the output format to `live-revealjs` and add `engine: knitr`
     in the preamble.
--   Add `{{< include ../extension/r-wasm/live/_knitr.qmd >}}` directly
+-   Add `{{< include ../_extensions/r-wasm/live/_knitr.qmd >}}` directly
     under the preamble
 
 ![](img/01_preamble.png){fig-align="center"}
@@ -228,14 +228,24 @@ Wait for GH Pages to sync and refresh your site.
 -   Provide datasets in the slides with
 ```
 
-format: live-revealjs: resources: - data/gapminder.csv
+format: 
+
+  live-revealjs: 
+  
+    resources: - data/gapminder.csv
 
 ```         
 
 -   Set slides to be scrollable by default OR text to be smaller with
 ```
 
-format: live-revealjs: scrollable: true smaller: true
+format: 
+
+  live-revealjs: 
+  
+    scrollable: true 
+    
+    smaller: true
 
 ```         
 
@@ -276,5 +286,3 @@ format:
     [my website](https://grcetmpk.github.io/workshops/tlsds-2026/) under
     "Workshops"
 
-[![](img/QR.png){fig-align="center"
-width="200"}](https://grcetmpk.github.io/workshops/tlsds-2026/)

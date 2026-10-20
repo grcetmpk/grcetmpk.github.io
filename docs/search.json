@@ -319,7 +319,7 @@
     "href": "workshops/tlsds-2026-slides/slides.html#step-7-set-up-webr-and-quarto-live",
     "title": "Embedding Editable and Executable R Code into Slides using Quarto",
     "section": "Step 7: Set up webr and Quarto live",
-    "text": "Step 7: Set up webr and Quarto live\nIn your slide file (01-intro.qmd):\n\nChange the output format to live-revealjs and add engine: knitr in the preamble.\nAdd {{&lt; include ../extension/r-wasm/live/_knitr.qmd &gt;}} directly under the preamble"
+    "text": "Step 7: Set up webr and Quarto live\nIn your slide file (01-intro.qmd):\n\nChange the output format to live-revealjs and add engine: knitr in the preamble.\nAdd {{&lt; include ../_extensions/r-wasm/live/_knitr.qmd &gt;}} directly under the preamble"
   },
   {
     "objectID": "workshops/tlsds-2026-slides/slides.html#step-8-create-executable-code-cells",
@@ -340,7 +340,7 @@
     "href": "workshops/tlsds-2026-slides/slides.html#recommendations",
     "title": "Embedding Editable and Executable R Code into Slides using Quarto",
     "section": "Recommendations",
-    "text": "Recommendations\n\nProvide students with scaffolding of code (do you want to type 10 lines of ggplot code every time you plot something?)\nProvide datasets in the slides with\n\n\nformat: live-revealjs: resources: - data/gapminder.csv\n\n\nSet slides to be scrollable by default OR text to be smaller with\n\n\nformat: live-revealjs: scrollable: true smaller: true"
+    "text": "Recommendations\n\nProvide students with scaffolding of code (do you want to type 10 lines of ggplot code every time you plot something?)\nProvide datasets in the slides with\n\n\nformat: \n\n  live-revealjs: \n  \n    resources: - data/gapminder.csv\n\n\nSet slides to be scrollable by default OR text to be smaller with\n\n\nformat: \n\n  live-revealjs: \n  \n    scrollable: true \n    \n    smaller: true"
   },
   {
     "objectID": "workshops/tlsds-2026-slides/slides.html#recommendations-1",
