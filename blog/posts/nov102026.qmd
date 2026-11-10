@@ -1,0 +1,44 @@
+---
+title: "Problematic Data Sets"
+date: November 10, 2026
+author: Grace Tompkins
+format: html
+categories: 
+  - Reflection
+  - Teaching
+image: "images/iris.jpeg"
+---
+
+## Problematic Data Sets
+
+![](images/iris.jpeg){fig-align="center" width="500"}
+
+
+A conversation with [Rachel Lynne Harrison at Baylor University](https://www.ecs.baylor.edu/person/rachel-harrison-phd) has me thinking a lot about data sets.
+
+The “Pima Indians” Diabetes Data Set (PIDD) and Iris data sets were some of the first data sets that I interacted with as an undergraduate student. A decade later, they remain some of the most commonly used data sets in both teaching and research.
+Here are some f̶u̶n̶ facts about these two data sets!
+
+- Iris contains data on flowers, which seems harmless. However, it was first published by Ronald Fisher in the Annals of Eugenics. Yes, the scientifically inaccurate field associated with selective breeding, social control, colonialism, exploitation, and reinforced racial hierarchies.
+
+- The data from the PIDD is that of the Akimel O’odham, who have never referred to themselves as “Pima”. This term comes from work that anthropologist Frank Russell published on the Akimel O’odham, which in turn controlled their cultural descriptions. Frank Russell also wrote a letter to his boss in 1902 that said, “these people are starving so that I am getting specimens and information that would otherwise not be attainable.” Yikes.
+
+- The PIDD is famously used to study diabetes due to it having the highest recorded prevalence and incidence of non-insulin-dependent diabetes of any geographically defined population. However, the data fails to acknowledge that the community experienced mass famine and starvation due to the California Gold Rush and the construction of dams and other structures by non-Native farmers. This then caused the American government to supply canned and processed food assistance between 1908 and 1955. Prior to this food assistance, only one case of diabetes was reported in the population.
+
+- The PIDD is so widely used and distributed that the Akimel O’odham have lost control over their data and the purposes for which it is used. Joanna Radin, author of “'Digital Natives': How Medical and Indigenous Histories Matter for Big Data,” wrote that “today, Akimel O’odham, in part as a result of their long-term involvement in biomedical research, are deeply skeptical about continuing to participate in additional forms of research, including that which is undertaken by historians.”
+
+I will never touch those data sets again.
+
+Thankfully, the Palmer Penguins data set has largely replaced Iris in the educational space. No ties to eugenics! Yay!!
+
+However, the PIDD persists. It's still on open machine learning repositories, in classrooms, and used in scientific, peer-reviewed papers.
+
+Rachel Lynne Harrison really said it best: “[we need to] put some thought into palmerpenguins-ing PIDD.” 
+
+I highly recommend that any educators who deal with data read Joanna Radin’s work, which I reference a lot here: [https://www.journals.uchicago.edu/doi/10.1086/693853](https://www.journals.uchicago.edu/doi/10.1086/693853)
+
+---
+
+My full thoughts, with all of the references, are written here:
+
+[https://grcetmpk.github.io/indigenizing-stat-ed/datasets.html#problematic-data-sets](https://grcetmpk.github.io/indigenizing-stat-ed/datasets.html#problematic-data-set)

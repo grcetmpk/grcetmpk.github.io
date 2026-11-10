@@ -6,7 +6,7 @@ format: html
 categories: 
   - Reflection
   - Teaching
-image: "images/pokemon.jpg"
+image: "images/pokemon.jpeg"
 ---
 
 ![](images/pokemon.jpeg){fig-align="center" width="500"}
