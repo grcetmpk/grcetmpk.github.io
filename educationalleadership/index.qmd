@@ -8,8 +8,7 @@ listing:
     contents: 
       - youtube
       - indig
-      - gitworkshop
-      - rladiesworkshopquarto
+      - activities-demos
       - stat545
       - candyshop
       - classroomtech

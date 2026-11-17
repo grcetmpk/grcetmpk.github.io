@@ -4,15 +4,21 @@
     "items": [
       "/educationalleadership/youtube/youtube.html",
       "/educationalleadership/indig/indig.html",
+      "/educationalleadership/activities-demos/index.html",
       "/educationalleadership/stat545/index.html",
       "/educationalleadership/candyshop/candyshop.html",
       "/educationalleadership/classroomtech/classroomtech.html"
     ]
   },
   {
-    "listing": "/justforfun/index.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/justforfun/dicegame/dicegame.html"
+      "/blog/posts/nov102026.html",
+      "/blog/posts/may152026.html",
+      "/blog/posts/jan212026.html",
+      "/blog/posts/jan22026.html",
+      "/blog/posts/nov52025.html",
+      "/blog/posts/sept172025.html"
     ]
   },
   {
@@ -25,14 +31,9 @@
     ]
   },
   {
-    "listing": "/blog/index.html",
+    "listing": "/justforfun/index.html",
     "items": [
-      "/blog/posts/nov102026.html",
-      "/blog/posts/may152026.html",
-      "/blog/posts/jan212026.html",
-      "/blog/posts/jan22026.html",
-      "/blog/posts/nov52025.html",
-      "/blog/posts/sept172025.html"
+      "/justforfun/dicegame/dicegame.html"
     ]
   }
 ]
